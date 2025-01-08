@@ -1,2 +1,2 @@
-print("Hello world there is a ")
+print("Hello world there is a skibidi toilet")
 print("2014")
