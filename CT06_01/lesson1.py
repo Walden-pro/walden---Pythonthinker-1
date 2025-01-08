@@ -1,3 +1,3 @@
-print(type("there is a skibidi toilet"))
+print(type("2014"))
 print("2014")
 type ("Hello from stick")
