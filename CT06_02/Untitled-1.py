@@ -1,3 +1,3 @@
 
 print("Skibidi Toilets")
-print("")
+print("Hello World")
