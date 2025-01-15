@@ -11,6 +11,8 @@
 # 1. If the user has entered the right secret phrase, congratulate
 # them.
 input("what is the password")
-if input == 68: print("wrong")
+if input == 68: 
+    
 else:
+
     print("correct")
