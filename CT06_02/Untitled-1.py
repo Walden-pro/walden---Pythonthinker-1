@@ -14,5 +14,4 @@ input("what is the password")
 if input == 68: 
     print("wrong")
 else:
-
-    print("correct")
+    p
