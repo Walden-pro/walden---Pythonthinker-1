@@ -1,4 +1,10 @@
 
-min_age = 18
-new = 45
-input("")
+num1 = int(input("num1"))
+num2 = int(input("num2"))
+
+print(type(num1))
+print(type(num1))
+
+ans = num1 + num2
+print(ans)
+
