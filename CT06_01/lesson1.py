@@ -12,4 +12,4 @@ print("There is a suspicious skibidi toilet here.")
 
 
 
-new_var = print("")
+new_var = print("45")
