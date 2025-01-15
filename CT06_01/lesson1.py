@@ -13,3 +13,4 @@ print("There is a suspicious skibidi toilet here.")
 
 
 new = print("45")
+print("new")
