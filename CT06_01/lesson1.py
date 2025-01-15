@@ -13,4 +13,3 @@ print("There is a suspicious skibidi toilet here.")
 
 min_age = 18
 new = 45
-print("/nnew")
