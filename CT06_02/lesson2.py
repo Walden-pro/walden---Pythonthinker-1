@@ -1,21 +1,7 @@
-# Task: Write down the steps on how to solve the problem below
+if test1 = 50  20% = 50 x 0.2 = 10
+if test2 = 68  40% = 68 x 0.4 = 27.2
+if test3 = 99  40% = 99 x 0.4 = 39.6
 
-# Design pseudocode for a recycling robot that sorts items
-# into bins for glass, plastic, and paper. The robot should
-# check each item's material and place it in the correct bin.
+add all together is equal to 10 + 27.2 + 39.6 = 76.8
 
-
-input("What is the password?")
-if input == 18:
-    print("Welcome!")
-else:
-    print("Access denied!")
-
-
-# Task: Using pseudocode, design a program that will check if the
-# user has entered the right secret phrase.
-
-# 1. If the user has entered a wrong secret phrase, send them an
-# error message.
-# 1. If the user has entered the right secret phrase, congratulate
-# them.
+then all the test is equal to  76.8 out of 100 
