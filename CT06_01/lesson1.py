@@ -12,4 +12,4 @@ print("There is a suspicious skibidi toilet here.")
 
 
 
-print("/fg")
+print("")
