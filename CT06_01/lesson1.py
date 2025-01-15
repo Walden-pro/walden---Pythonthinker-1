@@ -7,5 +7,5 @@ print(type(num1))
 ans = num1 + num2
 print(ans)
 
-object 
+object (__build_class__)
 
