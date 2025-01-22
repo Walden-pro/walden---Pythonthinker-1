@@ -22,7 +22,7 @@
 # 
 
 # 
-age = 18
+age = 10
 print(age)
 # 
 # 
