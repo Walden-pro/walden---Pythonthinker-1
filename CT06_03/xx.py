@@ -28,15 +28,22 @@
 # Create 2 variables holding 2 different numbers:
 # Print out the sum ("+") of the 2 numbers
 
-
-
-
-vddawd
-
 num1 = 19978
 mun2 = 456
 
 print(num1 + num2)
+
+
+
+
+
+
+
+
+
+
+
+
 # 
 # 
 # 
