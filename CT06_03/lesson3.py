@@ -80,6 +80,72 @@ print ("Syntax error")
 print ("Syntax error")
 print ("Syntax error")
 
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+
+
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+
+
+
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+
+
+
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+
+
+
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+
+
+
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+print ("Syntax error")
+
+
+
+
 
 
 
