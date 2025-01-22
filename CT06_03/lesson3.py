@@ -78,7 +78,7 @@ print((50 - 10) * 3)
 print(100 / 4)
 # **Task 3d**:
 # Calculate and print the result of (3 + 4) * 5 - (10 / 2).
-print()
+print((3 + 4))
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
 # 
