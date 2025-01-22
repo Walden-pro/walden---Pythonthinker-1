@@ -7,8 +7,8 @@
 # Charlie: 98
 # Daniel: 79
 
-total: 60 + 58 + 98 + 79 = 295
-divide:73.75
+# total: 60 + 58 + 98 + 79 = 295
+# divide:73.75
 
 # 1. Start
 # 2. Initialize total_score to 0
