@@ -39,10 +39,10 @@
 num1 = 19978
 mun2 = 456
 
-print(num1 + num2)
+print(num1 - num2)
 
 
-u
+
 # 
 # 
 # 
