@@ -38,9 +38,9 @@
 #num1 = 19978
 #num2 = 456
 
-print(num1 - num2)
-print(num1 * num2)
-print(num1 + num2)
+#print(num1 - num2)
+#print(num1 * num2)
+p#rint(num1 + num2)
 print(num1 / num2)
 
 print( 2 + 4 * 5 / 6 + 3 - 6 / 2)
