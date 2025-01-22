@@ -23,7 +23,7 @@
 
 # 
 age = 18
-print
+print(age)
 # 
 # 
 # 
