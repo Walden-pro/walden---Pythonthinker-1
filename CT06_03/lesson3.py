@@ -23,7 +23,8 @@
 # 
 age = 10
 print(age)
-
+x = 10
+print
 # 
 # 
 # 
