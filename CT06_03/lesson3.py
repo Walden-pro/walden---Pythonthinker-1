@@ -35,9 +35,8 @@
 
 
 
-
-num1 = 19978
-num2 = 456
+#num1 = 19978
+#num2 = 456
 
 print(num1 - num2)
 print(num1 * num2)
@@ -45,6 +44,43 @@ print(num1 + num2)
 print(num1 / num2)
 
 print( 2 + 4 * 5 / 6 + 3 - 6 / 2)
+
+## Task 3: Mathematics with variables
+# For each of the following questions, create variables to hold
+# the values given before finally using print(ans) to print the
+# answer:
+
+
+
+
+
+
+
+
+
+
+# **Task 3a**:
+# Create 2 variables 'a' and 'b', assign any number to
+# them and print their sum.
+a = 29
+b = 69
+print(a + b)
+
+
+
+
+
+# **Task 3b**:
+# Subtract 10 from 50, then multiply the result by 3.
+print(50 - 10 * 3)
+# **Task 3c**:
+# Divide 100 by 4 and print the result.
+
+# **Task 3d**:
+# Calculate and print the result of (3 + 4) * 5 - (10 / 2).
+
+# **Task 3e**:
+# Calculate and print the result of 3 / 2.
 # 
 # 
 # 
