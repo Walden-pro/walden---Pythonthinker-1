@@ -50,15 +50,6 @@
 # the values given before finally using print(ans) to print the
 # answer:
 
-
-
-
-
-
-
-
-
-
 # **Task 3a**:
 # Create 2 variables 'a' and 'b', assign any number to
 # them and print their sum.
@@ -77,6 +68,38 @@ print((3 + 4) * 5 - (10 / 2))
 # **Task 3e**:
 # Calculate and print the result of 3 / 2.
 print(3 / 2)
+
+## VARIABLES QUIZ
+# Which of the following are INVALID variable names?
+
+# 1. variable1
+# 2. 1variable
+# 3. 1
+# 4. one
+# 5. num1
+# 6. num_1
+# 7. Num_1
+# 8. num 1
+# 9. num-1
+# 10. class
+
+# Which of the following are INVALID variable assignments?
+# 1.  a = 100
+
+# 2.  b = 5
+#     a = b
+
+# 3.  100 = a
+
+# 4.  a = b = c = 5
+
+# 5.  a, b = 5, 6
+
+# 6.  b = 5
+#     a = b * 10
+
+# 7.  b = 5
+#     a = a * 10
 # 
 # 
 # 
