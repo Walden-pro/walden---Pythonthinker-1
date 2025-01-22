@@ -50,7 +50,11 @@
 print ("Syntax error")
 
 
-num
+
+
+
+
+a
 
 
 
