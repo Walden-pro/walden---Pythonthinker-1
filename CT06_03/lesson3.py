@@ -81,7 +81,7 @@ print(3 / 2)
 # 7. Num_1
 # 8. num 1
 # 9. num-1
-# 10. class   wrong
+# 10. class
 
 # Which of the following are INVALID variable assignments?
 # 1.  a = 100
