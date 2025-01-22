@@ -72,7 +72,7 @@ print(a + b)
 
 # **Task 3b**:
 # Subtract 10 from 50, then multiply the result by 3.
-print(50 - 10 * 3)
+print((50 - 10) * 3)
 # **Task 3c**:
 # Divide 100 by 4 and print the result.
 
