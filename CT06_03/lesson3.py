@@ -83,17 +83,7 @@ print(3 / 2)
 # 9. num-1
 # 10. class
 
-# Which of the following are INVALID variable assignments?
-# 1.  a = 100
-# 2.  b = 5
-# 3.  a = b
-# 4.  100 = a
-# 5.  a = b = c = 5
-# 6.  a, b = 5, 6
-# 7.  b = 5
-#     a = b * 10
-# 8.  b = 5
-#     a = a * 10
+
 # 
 # 
 # 
