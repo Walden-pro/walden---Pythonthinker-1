@@ -85,7 +85,6 @@ print(3 / 2)
 
 # Which of the following are INVALID variable assignments?
 # 1.  a = 100
-
 # 2.  b = 5
 # 3.  a = b
 
