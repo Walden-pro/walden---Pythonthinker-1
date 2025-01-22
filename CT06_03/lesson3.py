@@ -40,10 +40,10 @@
 
 #print(num1 - num2)
 #print(num1 * num2)
-p#rint(num1 + num2)
-print(num1 / num2)
+#print(num1 + num2)
+#print(num1 / num2)
 
-print( 2 + 4 * 5 / 6 + 3 - 6 / 2)
+#print( 2 + 4 * 5 / 6 + 3 - 6 / 2)
 
 ## Task 3: Mathematics with variables
 # For each of the following questions, create variables to hold
