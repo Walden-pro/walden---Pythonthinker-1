@@ -5,3 +5,9 @@ if test3 = 99  40% = 99 x 0.4 = 39.6
 add all together is equal to 10 + 27.2 + 39.6 = 76.8
 
 then all the test is equal to  76.8 out of 100 
+
+
+
+
+
+
