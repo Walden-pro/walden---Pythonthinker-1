@@ -65,11 +65,6 @@
 a = 29
 b = 69
 print(a + b)
-
-
-
-
-
 # **Task 3b**:
 # Subtract 10 from 50, then multiply the result by 3.
 print((50 - 10) * 3)
