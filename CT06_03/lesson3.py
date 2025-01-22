@@ -73,9 +73,9 @@ print(3 / 2)
 # Which of the following are INVALID variable names?
 
 # 1. variable1
-# 2. 1variable
+# 2. 1variable   
 # 3. 1
-# 4. one
+# 4. one                                           
 # 5. num1
 # 6. num_1
 # 7. Num_1
