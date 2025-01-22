@@ -16,7 +16,38 @@
 # 7. Calculate the number of students (num_students = 4)
 # 8. Calculate the average score (average_score = total_score / num_students)
 # 9. Print the average_score
-# 10. EndSyntax error
+# 10. End
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+print ("Syntax error")
 
 
 
