@@ -65,4 +65,4 @@
 
 
 for i in range(100):
-    print(" like chicken rices")
+    print("I ")
