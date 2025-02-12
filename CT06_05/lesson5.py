@@ -72,18 +72,18 @@
     
 # **Task 6a**:
 # Use a 'for' loop to print numbers from 2 to 24 in multiples of 2.
-for count in range(2, 25, 2):
-    print(count)
+# for count in range(2, 25, 2):
+#     print(count)
 
 # **Task 6b**:
 # Use a 'for' loop to print numbers from 8 to 96 in multiples of 8.
-for count in range(8, 97, 8):
-    print(count)
+# for count in range(8, 97, 8):
+#     print(count)
 
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
-for count in range(5, 0, -1):
-    print(count)
+# for count in range(5, 0, -1):
+#     print(count)
 
 ## Task 8: User-Defined Range Counter
 
