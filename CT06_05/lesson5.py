@@ -22,5 +22,5 @@
 
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
-for j in range(10):
+for j in range(10000000000000000000000000000000000000):
     print("skibidi")
