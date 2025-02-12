@@ -46,7 +46,7 @@
 #     Which function should you be using?\
 
 
-names = input()
+names = input("what de hell is your name")
 g = ("Give me a")
 
 print("")
