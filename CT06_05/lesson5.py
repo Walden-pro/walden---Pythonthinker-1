@@ -22,5 +22,26 @@
 
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
-for j in range(10000000000000000000000000000000000000 * 24925943859823945893485938598543985985):
-    print("skibidi + 234252435435#%2#%#%#%345$#%V$#@#$^ VrgFDhhdggggggggggggggggggggFdhdhfghdhfdgdf")
+
+## Task 1: Name Cheer
+
+# Your school's Sports Day is coming up and you are coding a
+# program to cheer your schoolmates up.
+
+# Your program needs to:
+# 1. Using input(), ask the user for their namee e.g. <Dave>
+# 2. Print a cheer as shown below:
+   
+#     ### Example:
+#     What is your name? [Input: "Dave"]
+#     Give me a D!
+#     Give me a a!
+#     Give me a v!
+#     Give me a e!
+#     What do we have?
+#     Dave is the best!
+
+# Note:
+#     Notice how "Give me a..." is repeated!
+#     Which function should you be using?
+
