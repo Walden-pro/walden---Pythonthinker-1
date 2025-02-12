@@ -55,5 +55,4 @@ print( name + " is the best!")
 
 
 for i in range(10):
-    
     print(i)
