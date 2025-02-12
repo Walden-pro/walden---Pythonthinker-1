@@ -46,7 +46,7 @@
 #     Which function should you be using?\
 
 
-names = input
+names = input()
 g = ("Give me a")
 
 print("")
