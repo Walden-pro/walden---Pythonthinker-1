@@ -72,7 +72,7 @@ for count in range(11, 1000, 12):
     
 # **Task 5a**:
 # Print numbers from 1 to 5 using a 'for' loop.
-for count in range(11, 1000, 12):
+for count in range(1, 1000, 12):
     print(count)
 
 # **Task 5b**:
