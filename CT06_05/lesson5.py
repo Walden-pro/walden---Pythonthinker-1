@@ -84,3 +84,8 @@ for count in range(8, 97, 8):
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
 for count in range(5, 1, -1):
     print(count)
+
+
+
+
+
