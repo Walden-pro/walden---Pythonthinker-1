@@ -49,4 +49,4 @@
 names = input("what de hell is your name")
 g = ("ive me a ")
 
-print("+ g + names + "!")
+print("G"+ g + names + "!")
