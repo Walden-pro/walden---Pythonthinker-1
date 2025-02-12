@@ -72,6 +72,8 @@ for count in range(11, 1000, 12):
     
 # **Task 5a**:
 # Print numbers from 1 to 5 using a 'for' loop.
+for count in range(11, 1000, 12):
+    print(count)
 
 # **Task 5b**:
 # Print numbers from 51 to 100 using a 'for' loop.
