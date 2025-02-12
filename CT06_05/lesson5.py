@@ -54,5 +54,5 @@ print("What do we have?")
 print( name + " is the best!")
 
 
-for 1 in 10
-    print(1)
+for i in 10:
+    print(i)
