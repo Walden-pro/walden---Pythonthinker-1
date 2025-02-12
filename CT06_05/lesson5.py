@@ -106,5 +106,5 @@ if start > stop:
     for count in range(start, stop +1 , -1 ):
         print(count)
 else:
-    for count in range(start, stop):
+    for count in range(start, stop+1):
         print(count)
