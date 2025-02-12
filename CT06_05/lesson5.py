@@ -10,7 +10,7 @@
 # 1. birthday person's name
 # 2. the age that they are turning that year
 # 3. personal message from the sender
-pri
+input()
 # Finally, the program prints out a personalized invitation
 # message.
 
