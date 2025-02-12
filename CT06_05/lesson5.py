@@ -46,9 +46,9 @@
 #     Which function should you be using?\
 
 
-name = input("what de hell is your name")
+namer = input("what de hell is your name")
 
-for char in name:
+for char in namer:
     print("Give me a "+ char + "!")
 print("WHAT DO WE HAVE?")
-print(+ name +" is the best")
+print(+ namer +" is the best")
