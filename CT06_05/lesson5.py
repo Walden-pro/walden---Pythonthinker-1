@@ -100,7 +100,7 @@
 
 
 
-start = input("STARTING NUMBER")
+start = input(int("STARTING NUMBER"))
 stop = input(int("STOPPING NUMBER"))
 if start > stop:
     for count in range(start, stop , -1 ):
