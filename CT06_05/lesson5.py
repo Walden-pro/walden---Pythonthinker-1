@@ -77,6 +77,8 @@ for count in range(2, 25, 2):
 
 # **Task 6b**:
 # Use a 'for' loop to print numbers from 8 to 96 in multiples of 8.
+for count in range(8, 97, 12):
+    print(count)
 
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
