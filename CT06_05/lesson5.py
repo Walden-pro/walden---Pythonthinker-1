@@ -13,7 +13,7 @@
 
 input(int("what is the birthday person name?"))
 int = input
-input("")
+input("what age are you")
 
 # Finally, the program prints out a personalized invitation
 # message.
