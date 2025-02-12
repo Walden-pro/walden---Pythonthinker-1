@@ -46,7 +46,5 @@
 #     Which function should you be using?\
 
 
-names = input("what de hell is your name")
-g = ("ive me a ")
-iter = names
-print("G"+ g + names + "!")
+name = input("what de hell is your name")
+print("G"+ g + name + "!")
