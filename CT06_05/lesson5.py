@@ -104,5 +104,5 @@ start = input("STARTING NUMBER")
 stop = input("STOPPING NUMBER")
 
 
-for count in range(start, stop ):
+for count in range(str(start, stop )):
     print(count)
