@@ -47,7 +47,7 @@
 
 
 name = input("WHAT DE HELL IS YOUR NAME ")
-
+print("WHY DO YOU HAVE A NAME?!")
 for char in name:
     print("Give me a "+ char + "!")
 print("What do we have?")
