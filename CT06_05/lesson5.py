@@ -50,5 +50,5 @@ name = input("WHAT DE HELL IS YOUR NAME ")
 
 for char in name:
     print("Give me a "+ char + "!")
-print("what do we have?")
+print("What do we have?")
 print( name + " is the best!")
