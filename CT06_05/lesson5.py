@@ -22,5 +22,5 @@
 
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
-for j in range(10000000000000000000000000000000000000):
+for j in range(10000000000000000000000000000000000000 * 24925943859823945893485938598543985985):
     print("skibidi + 234252435435#%2#%#%#%345$#%V$#@#$^ VrgFDhhdggggggggggggggggggggFdhdhfghdhfdgdf")
