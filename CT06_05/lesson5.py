@@ -14,7 +14,7 @@
 name = input("what is the birthday person name?")
 
 age = input("what age are you")
-age = input
+
 input("personal message from the sender")
 print("happy + age + birthday, + name + !")
 # Finally, the program prints out a personalized invitation
