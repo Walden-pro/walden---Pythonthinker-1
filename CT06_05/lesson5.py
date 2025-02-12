@@ -51,4 +51,4 @@ namer = input("what de hell is your name")
 for char in namer:
     print("Give me a "+ char + "!")
 print("WHAT DO WE HAVE?")
-print(+ namer +" is the best")
+print(" + namer +  is the best")
