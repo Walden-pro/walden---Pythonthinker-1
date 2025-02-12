@@ -46,7 +46,7 @@
 #     Which function should you be using?\
 
 
-name = input("WHAT THE HE")
+name = input("WHAT DE HELL IS YOUR NAME")
 
 for char in name:
     print("GIVE ME A "+ char + "!")
