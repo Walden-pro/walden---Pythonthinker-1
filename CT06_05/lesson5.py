@@ -65,6 +65,6 @@
 
 
 for i in range(100):
-    print("I LIKE DE CHICKEN RICESSSS.")
-for count in range(1, 11):
+    print("I LIKE DE CHICKEN Ricess")
+for count in range(11, 11):
     print(count)
