@@ -46,6 +46,6 @@
 #     Which function should you be using?\
 
 
-
+input
 g = ("Give me a")
 print("")
