@@ -103,6 +103,6 @@
 start = input("STARTING NUMBER")
 stop = input("STOPPING NUMBER")
 if start > stop:
-    print
+    print(the )
 for count in range(start, stop ):
     print(count)
