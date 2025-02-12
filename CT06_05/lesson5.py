@@ -47,4 +47,6 @@
 
 
 name = input("what de hell is your name")
-print("Give me a "+ g + name + "!")
+
+for char in name:
+    print("Give me a "+ g + name + "!")
