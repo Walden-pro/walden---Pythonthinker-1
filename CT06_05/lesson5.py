@@ -105,3 +105,6 @@ stop = input("STOPPING NUMBER")
 if start > stop:
     for count in range(start, stop , -1 ):
         print(count)
+else:
+    for count in range(start, stop):
+        print
