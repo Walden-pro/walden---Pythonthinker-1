@@ -100,4 +100,4 @@
 
 
 
-start = input("a")
+start = input("NUMBER")
