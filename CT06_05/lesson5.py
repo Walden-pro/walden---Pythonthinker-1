@@ -16,7 +16,7 @@ int = input
 input("what age are you")
 age = input
 input("personal message from the sender")
-print()
+print("happy")
 # Finally, the program prints out a personalized invitation
 # message.
 
