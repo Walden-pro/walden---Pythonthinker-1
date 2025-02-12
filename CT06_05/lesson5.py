@@ -48,5 +48,5 @@
 
 names = input("what de hell is your name")
 g = ("ive me a ")
-iter
+iter name
 print("G"+ g + names + "!")
