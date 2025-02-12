@@ -46,13 +46,19 @@
 #     Which function should you be using?\
 
 
-name = input("WHAT DE HELL IS YOUR NAME ")
-print("WHY DO YOU HAVE A NAME")
-for char in name:
-    print("Give me a "+ char + "!")
-print("What do we have?")
-print( name + " is the best!")
+# name = input("WHAT DE HELL IS YOUR NAME ")
+# print("WHY DO YOU HAVE A NAME")
+# for char in name:
+#     print("Give me a "+ char + "!")
+# print("What do we have?")
+# print( name + " is the best!")
 
 
-for i in range(10):
-    print(i)
+# for i in range(10):
+#     print(i)
+
+
+## Task 2: Repeated Sentence Loop
+
+# Print the sentence "I like chicken rice." 100 times using the
+# 'for' loop
