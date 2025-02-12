@@ -66,4 +66,5 @@
 
 for i in range(100):
     print("I LIKE DE CHICKEN RICESSSS.")
-range(start, stop , step)
+for count in range(1, 11):
+    print
