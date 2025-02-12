@@ -64,10 +64,10 @@
 # 'for' loop
 
 
-for i in range(100):
-    print("I LIKE DE CHICKEN Ricess")
-for count in range(11, 1000, 12):
-    print(count)
+# for i in range(100):
+#     print("I LIKE DE CHICKEN Ricess")
+# for count in range(11, 1000, 12):
+#     print(count)
 
     
 # **Task 6a**:
