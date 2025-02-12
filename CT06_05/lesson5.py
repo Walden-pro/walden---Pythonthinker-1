@@ -23,4 +23,4 @@ print("Happy " + age +  "th birthday," + name+ "!")
 # ### Sample output:
 # "Happy <Age>th birthday <Name>! <Message>"
 for i in range(1000):
-    print("")
+    print("skibidi")
