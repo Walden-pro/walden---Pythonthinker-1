@@ -49,6 +49,6 @@
 name = input("what de hell is your name")
 
 for char in name:
-    print("Give me a "+ char + "!")
+    print("GIVE ME A "+ char + "!")
 print("WHAT DO WE HAVE?")
 print( name + " IS THE BEST!")
