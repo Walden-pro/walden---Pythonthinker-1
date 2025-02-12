@@ -66,3 +66,4 @@
 
 for i in range(100):
     print("i like chicken rices")
+#<- line 69
