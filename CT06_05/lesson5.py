@@ -100,3 +100,4 @@
 
 
 
+start = input
