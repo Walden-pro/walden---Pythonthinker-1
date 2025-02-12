@@ -10,9 +10,9 @@
 # 1. birthday person's name
 # 2. the age that they are turning that year
 # 3. personal message from the sender
-ans = input
-input("what is the birthday person name?")
 
+input(int("what is the birthday person name?"))
+int = input
 
 
 # Finally, the program prints out a personalized invitation
