@@ -100,8 +100,8 @@
 
 
 
-start = input("NUMBER")
-stop = input("NUMBER")
+start = input("STARTING NUMBER")
+stop = input("STOPPING NUMBER")
 
 
 
