@@ -11,12 +11,12 @@
 # 2. the age that they are turning that year
 # 3. personal message from the sender
 
-name = input("what is the birthday person name?")
+#name = input("what is the birthday person name?")
 
-age = input("what age are you")
+#age = input("what age are you")
 
 
-print("Happy " + age +  "th birthday," + name+ "!")
+#print("Happy " + age +  "th birthday," + name+ "!")
 # Finally, the program prints out a personalized invitation
 # message.
 
