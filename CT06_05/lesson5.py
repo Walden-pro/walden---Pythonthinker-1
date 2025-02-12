@@ -46,6 +46,6 @@
 #     Which function should you be using?\
 
 
-input
+names = input
 g = ("Give me a")
 print("")
