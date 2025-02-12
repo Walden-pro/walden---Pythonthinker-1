@@ -10,6 +10,7 @@
 # 1. birthday person's name
 # 2. the age that they are turning that year
 # 3. personal message from the sender
+ans 
 input("what is the birthday person name?")
 
 
