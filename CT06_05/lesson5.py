@@ -102,7 +102,7 @@
 
 start = input("STARTING NUMBER")
 stop = input("STOPPING NUMBER")
-
-
+if start > stop:
+    print
 for count in range(start, stop ):
     print(count)
