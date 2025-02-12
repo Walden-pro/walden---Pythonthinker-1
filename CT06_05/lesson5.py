@@ -52,3 +52,7 @@ for char in name:
     print("Give me a "+ char + "!")
 print("What do we have?")
 print( name + " is the best!")
+
+
+for 1 in 10
+    print(1)
