@@ -103,6 +103,6 @@
 start = input("STARTING NUMBER")
 stop = input("STOPPING NUMBER")
 if start > stop:
-    print(the )
+    print("first number must be lesser than the second number")
 for count in range(start, stop ):
     print(count)
