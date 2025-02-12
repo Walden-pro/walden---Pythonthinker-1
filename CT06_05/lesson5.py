@@ -82,5 +82,5 @@ for count in range(8, 97, 8):
 
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
-for count in range(11, 1000, 12):
+for count in range(5, 1, 12):
     print(count)
