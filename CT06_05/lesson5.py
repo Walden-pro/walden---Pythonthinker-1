@@ -72,7 +72,7 @@ for count in range(11, 1000, 12):
     
 # **Task 6a**:
 # Use a 'for' loop to print numbers from 2 to 24 in multiples of 2.
-for count in range(2, 1, 12):
+for count in range(2, 25, 2):
     print(count)
 
 # **Task 6b**:
