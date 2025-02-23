@@ -118,7 +118,7 @@ print("The year is " ,year )
 x = 10
 y = int(x) / 2
 
-end = 5
+end = "5"
 for i in range(end):
     print(i)
 
