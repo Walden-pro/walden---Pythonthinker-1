@@ -18,7 +18,7 @@ average_score = total / 3
 
 student_name = "Alex"
 
-print("Average score for " + student_name + " is: " + average_score)
+print("Average score for " + student_name + " is: " < average_score)
 
 
 
@@ -45,4 +45,5 @@ for i in range(2, 20, 2):
 
 #Use a 'for' loop and range() to count down from 10 to 1.
 
-for i in range(10, 1, -1)
+for i in range(10, 1, -1):
+    print(i)
