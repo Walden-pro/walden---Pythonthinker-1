@@ -70,8 +70,9 @@ print(age)
 name = "Alice"
 print(name)
 
-print(x)
 x = 5
+print(x)
+
 
 print("Hello, World!")
 
