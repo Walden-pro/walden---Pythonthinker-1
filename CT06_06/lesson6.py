@@ -112,5 +112,5 @@ print(age + 1)
 number = 10
 print(number - 5)
 
-repea
+repeat = 3
 print("Repeat" * "3")
