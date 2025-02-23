@@ -119,6 +119,6 @@ x = 10
 y = int(x) / 2
 
 end = "5"
-for i in range(end):
+for i in range (int(end)):
     print(i)
 
