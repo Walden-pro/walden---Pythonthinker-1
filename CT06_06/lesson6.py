@@ -124,11 +124,5 @@ for i in range(int(end)):
 
 
 
-x = 10
-y = "5"
-print(x + y)
-
-if True:
-    print("?")
 
 print(this_is_a_variable)
