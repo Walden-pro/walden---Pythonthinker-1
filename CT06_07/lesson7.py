@@ -70,4 +70,4 @@ word = input
 print(input("How many times would you like to repeat?"))
 times = input
 
-print()
+print(word )
