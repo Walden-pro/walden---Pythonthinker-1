@@ -116,7 +116,7 @@ year = 2023
 print("The year is " ,year )
 
 x = 10
-y = x / 2
+y = int(x) / 2
 
 end = 5
 for i in range(end):
