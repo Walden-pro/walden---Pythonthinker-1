@@ -106,5 +106,5 @@ print("Hello, World!")
 #for i in range(end):
 #    print(i)
 
-age = "25"
+age = 25
 print(age + 1)
