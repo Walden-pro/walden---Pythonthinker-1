@@ -1,10 +1,6 @@
 
 
 
-
-
-
-
 # Lesson 7 - For Loop (Part 2)
 
 ## Recap 1: Debugging Average Score Program
