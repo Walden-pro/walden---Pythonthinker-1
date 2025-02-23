@@ -113,4 +113,4 @@ number = 10
 print(number - 5)
 
 repeat = 3
-print("Repeat" * "3")
+print(Repeat * 3)
