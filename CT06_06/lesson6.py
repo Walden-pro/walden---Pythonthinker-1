@@ -112,5 +112,5 @@ print(age + 1)
 number = 10
 print(number - 5)
 
-re
-print("Repeat" * "3")
+repeat = 3
+print("repeat" * "3")
