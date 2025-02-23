@@ -65,4 +65,4 @@ for i in range(10, 1, -1):
 
 
 
-print (input(""))
+print(input("What word would you like to repeat?"))
