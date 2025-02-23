@@ -59,6 +59,6 @@ for i in range(10, 1, -1):
 #How many times would you like to repeat? << 3 >>
 
 #output:
-burger
-burger
-burger
+#burger
+#burger
+#burger
