@@ -122,7 +122,3 @@ end = "5"
 for i in range(int(end)):
     print(i)
 
-
-
-
-print(this_is_a_variable)
