@@ -109,8 +109,8 @@ print(age + 1)
 number = 10
 print(number - 5)
 
-repeat = 3
-print(repeat * 3)
+
+print("repeat" * 3)
 
 year = 2023
 print("The year is " ,year )
