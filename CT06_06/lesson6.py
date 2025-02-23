@@ -1,8 +1,5 @@
 
 
-
-
-
 ## Task 1: Syntax Errors
 #Fix the errors in the following:
 
