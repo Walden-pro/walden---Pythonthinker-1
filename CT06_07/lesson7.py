@@ -38,3 +38,5 @@ for i in range(1, 10 + 1, 1):
 #Print all even numbers between 2 and 20 using a 'for' loop and
 #range().
 
+for i in range(2, 20, 2):
+    print(i)
