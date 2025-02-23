@@ -116,7 +116,7 @@ repeat = 3
 print(repeat * 3)
 
 year = 2023
-print(str("The year is " + year))
+print("The year is " + year)
 
 
 
