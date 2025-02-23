@@ -118,7 +118,8 @@ print(repeat * 3)
 year = 2023
 print("The year is " + year )
 
-x = "10"
+x = 10
 y = x / 2
+
 
 
