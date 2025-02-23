@@ -67,9 +67,6 @@ for i in range(10, 1, -1):
 
 word = input("What word would you like to repeat? ")
 
-# Ask the user for the number of repetitions
 n = int(input("How many times would you like to repeat? "))
-
-
 for _ in range(n):
     print(word)
