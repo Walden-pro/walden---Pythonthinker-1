@@ -92,6 +92,6 @@ for _ in range(n):
 
 
 input("What is your name?")
-input(int) = n
+n = input(int)
 for i in range(3):
     print("Nice to meet you, " + n )
