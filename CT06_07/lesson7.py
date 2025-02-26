@@ -90,4 +90,4 @@ for _ in range(n):
 
 
 
-input(int())
+input(int("What is your name?"))
