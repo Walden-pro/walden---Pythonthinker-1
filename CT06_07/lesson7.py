@@ -91,3 +91,7 @@ for _ in range(n):
 
 
 
+input(int("What is your name?"))
+n = input
+for i in range(3):
+    print("Nice to meet you, " + name )
