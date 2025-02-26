@@ -94,4 +94,4 @@ for _ in range(n):
 input("What is your name?")
 n = input
 for i in range(3):
-    print("Nice to meet you, " + n )
+    print("Nice to meet you, " , n )
