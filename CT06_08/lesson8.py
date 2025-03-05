@@ -13,4 +13,5 @@ end = int(input("End"))
 increment = int(input("Increment"))
 # This line of code stores the input into a increment variable
 for i in range(start, end, increment):
+# 
     print(i)
