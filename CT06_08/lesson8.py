@@ -10,4 +10,3 @@
 # tryt
 # ewte
 
-print ("")
