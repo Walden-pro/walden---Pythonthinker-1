@@ -1,4 +1,4 @@
-name = input("WHat is your name?")
-print("name")
+name = input("What is your name?")
+print("It is nice toname")
 
 
