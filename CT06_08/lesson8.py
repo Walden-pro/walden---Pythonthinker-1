@@ -7,6 +7,6 @@ print("Nice to meet you, "  + name )
 
 
 start = input("Start")
-# 
+# This line stores the 
 end = input("End")
 increment = input("Increment")
