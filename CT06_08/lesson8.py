@@ -9,5 +9,5 @@ print("Nice to meet you, "  + name )
 start = input("Start")
 # This line stores the input into start variable
 end = input("End")
-# This line of code 
+# This line of code stores the 
 increment = input("Increment")
