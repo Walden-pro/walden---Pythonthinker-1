@@ -6,7 +6,7 @@
 
 
 
-start = input("Start")
+start = int(input("Start"))
 # This line stores the input into start variable
 end = int(input("End"))
 # This line of code stores the input into the end variable
