@@ -1,3 +1,3 @@
 name = input("What is your name? ")
-# There
+# Ther
 print("Nice to meet you, "  + name )
