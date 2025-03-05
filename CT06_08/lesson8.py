@@ -6,4 +6,4 @@ print("Nice to meet you, "  + name )
 
 
 
-start = input("")
+start = input("Start")
