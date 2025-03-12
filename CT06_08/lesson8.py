@@ -53,5 +53,5 @@ for i in range(bruh,0, -1):
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
 
-import random.randint
+import random
 print(random.randint)
