@@ -32,4 +32,4 @@ print("Product of the 5 numbers is " , Product)
 
 import time
 for i in range(10,1):
-    
+    print(i)
