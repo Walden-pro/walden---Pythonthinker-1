@@ -90,4 +90,4 @@
 # the "==" operator.
 
 
-print(type(rue))
+print(type(True))
