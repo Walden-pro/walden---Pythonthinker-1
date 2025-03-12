@@ -30,15 +30,15 @@
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.
 
-import time
+# import time
 
-# range(stop)
-# range(start, stop)
-# range(start, stop, step)
-bruh = int(input("number to count down from "))
-for i in range(bruh,0, -1):
-    time.sleep(1)
-    print(i)
+# # range(stop)
+# # range(start, stop)
+# # range(start, stop, step)
+# bruh = int(input("number to count down from "))
+# for i in range(bruh,0, -1):
+#     time.sleep(1)
+#     print(i)
 
 
 
