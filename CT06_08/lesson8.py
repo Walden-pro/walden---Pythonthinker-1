@@ -145,7 +145,6 @@ rannum = random.randint(1,50)
 snum = int(input("number start"))
 enum = int(input("ending number"))
 numpy = rannum <= enum
-print(rannum >= snum
+numpier = rannum >= snum
 
 print(rannum <= enum)
-print(rannum >= snum)
