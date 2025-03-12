@@ -59,4 +59,4 @@
 
 import random
 for i in range(20):
-    print(random.randint(0,9999))
+    print(random.randint(6969,6969))
