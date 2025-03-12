@@ -11,7 +11,7 @@
 
 Product = 0
 for i in range(1 , 6):
-    Product = sum * int(input("What is number " + str(i) + " ? "))
+    Product = Product * int(input("What is number " + str(i) + " ? "))
 
 print("Product of the 5 numbers is " , sum)
 
