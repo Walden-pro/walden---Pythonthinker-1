@@ -117,9 +117,7 @@
 
 # Example:
 # What is 2 + 5? << 7 >>
-# True## Task 4:
-
-
+# True
 
 import random
 num1 = random.randint(1,50)
