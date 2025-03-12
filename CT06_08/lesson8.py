@@ -122,7 +122,7 @@
 
 
 import random
-number
+num1 = 
 
 
 
