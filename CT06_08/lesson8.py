@@ -18,39 +18,6 @@ print("Product of the 5 numbers is " , Product)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Task 1: 'time' library
 
 # **Task 1a**:
