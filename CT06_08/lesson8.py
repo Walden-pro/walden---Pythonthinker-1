@@ -100,5 +100,5 @@ bruhhh = 68
 print(bruhhh == bruhh)
 print(1 == 1)
 
-bruhh = 86
-bruhhhh
+bruhhhh = 86
+bruhhhhh = 68
