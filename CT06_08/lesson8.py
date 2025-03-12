@@ -124,7 +124,8 @@
 import random
 num1 = random.radint(1,50)
 num2 = random.randint(1,50)
-ans = int(input)
+print
+ans = int(input("Answer"))
 
 
 # **Task 4a**: Math Question Generator
