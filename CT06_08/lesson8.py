@@ -54,4 +54,5 @@
 # 9999 randomly.
 
 import random
+bruhh
 print(random.randint69)
