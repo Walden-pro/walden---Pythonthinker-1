@@ -56,7 +56,8 @@
 # import random
 # num = random.randint(1,6)
 # print(num)
-
 import random
 for i in range(20):
     print(random.randint(0,9999))
+
+i
