@@ -165,6 +165,6 @@
 # 2. False (If the answer is wrong)
 
 import random
-guess = random.randint(1,10)
+guess = random.randint(1,1)
 num1 = int(input("Guess the number from 1 to 10"))
 print(guess == num1)
