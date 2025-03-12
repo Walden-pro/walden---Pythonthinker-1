@@ -164,10 +164,10 @@
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-import random
-guess = random.randint(1,10)
-num1 = int(input("Guess the number from 1 to 10 = "))
-print(guess == num1)
+# import random
+# guess = random.randint(1,10)
+# num1 = int(input("Guess the number from 1 to 10 = "))
+# print(guess == num1)
 
 
 ## Task 6: Random Multiplication Quiz
