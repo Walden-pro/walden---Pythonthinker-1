@@ -142,3 +142,4 @@
 
 import random
 rannum = random.randint(1,50)
+unum = int(input("num"))
