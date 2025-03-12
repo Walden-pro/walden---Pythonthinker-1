@@ -102,3 +102,4 @@ print(1 == 1)
 
 bruhhhh = 86
 bruhhhhh = 68
+print(bruhhhh == bruhhhhh)
