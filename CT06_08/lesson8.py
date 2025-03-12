@@ -183,4 +183,4 @@ print(guess == num1)
 # they want to attempt.
 
 import random
-number = random.randint()
+number = random.randint(1,5)
