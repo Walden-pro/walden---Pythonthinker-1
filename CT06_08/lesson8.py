@@ -124,7 +124,7 @@
 import random
 num1 = random.radint(1,50)
 num2 = random.randint(1,50)
-print
+print(num1 + num2)
 ans = int(input("Answer"))
 
 
