@@ -54,5 +54,5 @@
 # 9999 randomly.
 
 import random
-bruhh
+bruhh = random.randint68
 print(random.randint69)
