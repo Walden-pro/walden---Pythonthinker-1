@@ -58,6 +58,6 @@ num = random.randint(1,6)
 print(num)
 
 import random
-num = random.randint(1,6)
+numm = random.randint(1,6)
 for i in range(20):
-    print(num)
+    print(numm)
