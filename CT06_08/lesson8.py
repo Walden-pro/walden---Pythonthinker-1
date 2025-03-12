@@ -186,3 +186,4 @@ import random
 num1 = random.randint(1,10)
 num2 = random.randint(1,10)
 NumOfQuestions = int(input("number of questions"))
+num3 = num1 * num2
