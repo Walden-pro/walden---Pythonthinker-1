@@ -125,7 +125,8 @@ num2 = random.randint(1,50)
 ansc = num1 + num2
 print(str(num1) + "+" + str(num2) + "=" )
 ans = int(input("Answer"))
-ifansc = ans
+print(ansc == ans)
+  
 
 
 # **Task 4a**: Math Question Generator
