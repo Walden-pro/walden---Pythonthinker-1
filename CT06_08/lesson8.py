@@ -30,6 +30,6 @@ print("Product of the 5 numbers is " , Product)
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.
 
-
+import time
 
 
