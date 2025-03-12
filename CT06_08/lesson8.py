@@ -92,3 +92,4 @@
 
 print(type(True))
 bruh = 132 >= 1341
+print (burh)
