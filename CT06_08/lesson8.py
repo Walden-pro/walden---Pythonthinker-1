@@ -123,7 +123,7 @@
 
 import random
 num1 = random.radint(1,50)
-num2 = 
+num2 = random.randint()
 
 
 
