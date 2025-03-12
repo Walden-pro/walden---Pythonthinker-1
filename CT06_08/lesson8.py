@@ -90,4 +90,4 @@
 # the "==" operator.
 
 
-print
+print(type(rue))
