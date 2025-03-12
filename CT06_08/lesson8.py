@@ -96,6 +96,6 @@ print(bruh)
 
 
 bruhh = 68
-bruhhh
-print(bruhhh == 68)
+bruhhh = 68
+print(bruhhh == bruhh)
 print(1 == 1)
