@@ -147,3 +147,19 @@ enum = int(input("ending number"))
 numpy = rannum <= enum
 numpier = rannum >= snum
 print(numpier == numpy)
+
+
+
+## Task 5: Random Number Guessing Game
+
+# Create a simple program to guess a random number:
+# a. Create a variable called 'guess' and assign a number that
+#    you are guessing
+# b. Create a variable called 'num1' and assign a random integer
+#    between 1 to 10.
+
+# Your program will check if 'guess' is equal to 'num1'.
+
+# The output should be one of the following:
+# 1. True (If the answer is correct)
+# 2. False (If the answer is wrong)
