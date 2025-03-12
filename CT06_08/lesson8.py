@@ -165,3 +165,4 @@ print(numpier == numpy)
 # 2. False (If the answer is wrong)
 
 import random
+guess = 
