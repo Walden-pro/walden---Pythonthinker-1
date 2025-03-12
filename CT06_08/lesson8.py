@@ -167,3 +167,4 @@
 import random
 guess = random.randint(1,10)
 num1 = int(input("Guess the number from 1 to 10"))
+numpies = num
