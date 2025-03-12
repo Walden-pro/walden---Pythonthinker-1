@@ -122,8 +122,8 @@
 
 
 import random
-num1 = random.radint()
-
+num1 = random.radint(1,50)
+num2 = 
 
 
 
