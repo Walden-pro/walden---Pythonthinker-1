@@ -32,5 +32,5 @@
 
 import time
 
-for i in range(10,1):
-    print(str(i))
+time.sleep(10)
+print("Ring")
