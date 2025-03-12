@@ -122,7 +122,7 @@
 
 
 import random
-num1 = 
+num1 = random.radint()
 
 
 
