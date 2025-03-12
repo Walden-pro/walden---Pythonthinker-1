@@ -182,3 +182,5 @@ print(guess == num1)
 # between 1 and 10. The user should input the number of questions
 # they want to attempt.
 
+import random
+number = randint
