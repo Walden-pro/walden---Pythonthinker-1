@@ -183,6 +183,6 @@ print(guess == num1)
 # they want to attempt.
 
 import random
-number = random.randint(1,5)
-numbers = random.randint(1,5)
-NumOfQuestions = int(input)
+num1 = random.randint(1,5)
+num2 = random.randint(1,5)
+NumOfQuestions = int(input())
