@@ -55,4 +55,4 @@
 
 import random
 bruhh = random.randint68
-print(random.randint69)
+print(bruhh)
