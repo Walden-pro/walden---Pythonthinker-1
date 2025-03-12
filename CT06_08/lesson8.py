@@ -31,6 +31,5 @@ print("Product of the 5 numbers is " , Product)
 # counting down every second from the number given by the user.
 
 import time
-
-
-
+for i in range(10,1):
+    
