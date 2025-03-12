@@ -35,6 +35,7 @@ import time
 # range(stop)
 # range(start, stop)
 # range(start, stop, step)
+bruh = int(input(""))
 for i in range(10,0, -1):
     time.sleep(1)
     print(i)
