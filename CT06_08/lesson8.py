@@ -60,5 +60,4 @@
 import random
 for i in range(20):
     numm = random.randint(0,9999)
-    for i in range(20):
     print(numm)
