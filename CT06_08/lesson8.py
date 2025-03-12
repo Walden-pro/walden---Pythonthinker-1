@@ -90,15 +90,15 @@
 # the "==" operator.
 
 
-print(type(True))
-bruh = 132 >= 1341
-print(bruh)
+# print(type(True))
+# bruh = 132 >= 1341
+# print(bruh)
 
 
-bruhh = 68
-bruhhh = 68
-print(bruhhh == bruhh)
-print(1 == 1)
+# bruhh = 68
+# bruhhh = 68
+# print(bruhhh == bruhh)
+# print(1 == 1)
 
 bruhhhh = 86
 bruhhhhh = 68
