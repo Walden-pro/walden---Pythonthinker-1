@@ -54,3 +54,4 @@ for i in range(bruh,0, -1):
 # 9999 randomly.
 
 import random
+print(random)
