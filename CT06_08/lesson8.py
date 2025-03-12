@@ -37,5 +37,4 @@ import time
 # range(start, stop, step)
 for i in range(10,0, -1):
     time.sleep(1)
-    Time = Time - 1
-    print(Time)
+    print(i)
