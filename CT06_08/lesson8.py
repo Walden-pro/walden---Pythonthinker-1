@@ -141,4 +141,4 @@
 # 2. False (If the answer is wrong)
 
 import random
-rannum = randint
+rannum = random.randint(1,50)
