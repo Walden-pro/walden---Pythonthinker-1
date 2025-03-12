@@ -31,6 +31,7 @@
 # counting down every second from the number given by the user.
 Time = 0
 import time
+
 for i in range(10,0):
     time.sleep(1)
     Time = Time + 1
