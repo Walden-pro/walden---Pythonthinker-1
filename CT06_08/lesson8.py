@@ -94,3 +94,5 @@ print(type(True))
 bruh = 132 >= 1341
 print(bruh)
 bruhh = 68
+bruhhh = 68
+print()
