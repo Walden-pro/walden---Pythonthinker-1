@@ -54,5 +54,5 @@
 # 9999 randomly.
 
 import random
-bruhh = random.randint(1,6)
-print(bruhh)
+num = random.randint(1,6)
+print(num)
