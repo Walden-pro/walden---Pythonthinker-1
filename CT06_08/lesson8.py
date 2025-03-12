@@ -9,7 +9,7 @@
 # 2. Calculate the multiplication for these 5 numbers and print it out.
 
 
-Product = 0
+Product = 1
 for i in range(1 , 6):
     u = Product * int(input("What is number " + str(i) + " ? "))
 
