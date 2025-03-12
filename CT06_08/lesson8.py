@@ -9,10 +9,10 @@
 # 2. Calculate the multiplication for these 5 numbers and print it out.
 
 
-Product = 1 # accumulator variable
-for i in range(1 , 6):
-    Product = Product * int(input("What is number " + str(i) + " ? "))
-print("Product of the 5 numbers is " , Product)
+# Product = 1 # accumulator variable
+# for i in range(1 , 6):
+#     Product = Product * int(input("What is number " + str(i) + " ? "))
+# print("Product of the 5 numbers is " , Product)
 
 
 
