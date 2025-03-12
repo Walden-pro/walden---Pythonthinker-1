@@ -58,6 +58,6 @@ num = random.randint(1,6)
 print(num)
 
 import random
-numm = random.randint(1,6)
+numm = random.randint(0,9999)
 for i in range(20):
     print(numm)
