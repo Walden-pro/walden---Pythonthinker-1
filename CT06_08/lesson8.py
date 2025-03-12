@@ -146,5 +146,4 @@ snum = int(input("number start"))
 enum = int(input("ending number"))
 numpy = rannum <= enum
 numpier = rannum >= snum
-
 print(numpier == numpy)
