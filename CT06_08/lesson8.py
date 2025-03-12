@@ -29,7 +29,7 @@
 # Modify your code from Task 1a to include an 'input()' function
 # asking the user for the number to countdown from, before
 # counting down every second from the number given by the user.
-Time = 10
+
 import time
 
 # range(stop)
