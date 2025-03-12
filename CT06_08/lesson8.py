@@ -59,5 +59,5 @@ print(num)
 
 import random
 num = random.randint(1,6)
-f
-print(num)
+for i in range(20):
+    print(num)
