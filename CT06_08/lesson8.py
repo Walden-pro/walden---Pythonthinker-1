@@ -91,4 +91,4 @@
 
 
 print(type(True))
-bruh = 
+bruh = 132 >= 1341
