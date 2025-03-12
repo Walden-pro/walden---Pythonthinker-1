@@ -140,13 +140,13 @@
 # 1. True (If the answer is correct)
 # 2. False (If the answer is wrong)
 
-import random
-rannum = random.randint(1,50)
-snum = int(input("number start"))
-enum = int(input("ending number"))
-numpy = rannum <= enum
-numpier = rannum >= snum
-print(numpier == numpy)
+# import random
+# rannum = random.randint(1,50)
+# snum = int(input("number start"))
+# enum = int(input("ending number"))
+# numpy = rannum <= enum
+# numpier = rannum >= snum
+# print(numpier == numpy)
 
 
 
@@ -166,4 +166,4 @@ print(numpier == numpy)
 
 import random
 guess = random.randint(1,10)
-num1 = int(input(""))
+num1 = int(input("Guess the number from 1 to 10"))
