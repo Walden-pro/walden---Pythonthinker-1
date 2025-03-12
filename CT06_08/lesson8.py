@@ -183,6 +183,6 @@
 # they want to attempt.
 
 import random
-num1 = random.randint(1,5)
-num2 = random.randint(1,5)
+num1 = random.randint(1,10)
+num2 = random.randint(1,10)
 NumOfQuestions = int(input("number of questions"))
