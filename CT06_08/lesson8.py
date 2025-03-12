@@ -53,9 +53,9 @@
 # Using the 'random' library, create 20 numbers between 0 and
 # 9999 randomly.
 
-import random
-num = random.randint(1,6)
-print(num)
+# import random
+# num = random.randint(1,6)
+# print(num)
 
 import random
 numm = random.randint(0,9999)
