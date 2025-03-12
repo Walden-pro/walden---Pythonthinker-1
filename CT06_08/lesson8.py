@@ -100,8 +100,46 @@
 # print(bruhhh == bruhh)
 # print(1 == 1)
 
-bruhhhh = True
-bruhhhhh = False
-print(bruhhhh == bruhhhhh)
+# bruhhhh = True
+# bruhhhhh = False
+# print(bruhhhh == bruhhhhh)
 
 
+## Task 4:
+
+# **Task 4a**: Math Question Generator
+# Using the 'random' library, generate 2 numbers between 1 and 50
+# that the user must add together.
+
+# The output should be one of the following:
+# 1. True (If the answer is correct)
+# 2. False (If the answer is wrong)
+
+# Example:
+# What is 2 + 5? << 7 >>
+# True## Task 4:
+
+# **Task 4a**: Math Question Generator
+# Using the 'random' library, generate 2 numbers between 1 and 50
+# that the user must add together.
+
+# The output should be one of the following:
+# 1. True (If the answer is correct)
+# 2. False (If the answer is wrong)
+
+# Example:
+# What is 2 + 5? << 7 >>
+# True
+
+# **Task 4b**: Range Guesser
+# Create a program that generates a random number between 1 and
+# 50.
+
+# The user should input a range (two numbers: start and end).
+
+# The program checks if the random number falls within the user's
+# range.
+
+# The output should be one of the following:
+# 1. True (If the answer is correct)
+# 2. False (If the answer is wrong)
