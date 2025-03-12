@@ -31,5 +31,6 @@
 # counting down every second from the number given by the user.
 
 import time
+
 for i in range(10,1):
     print(str(i))
