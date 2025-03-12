@@ -185,3 +185,4 @@ print(guess == num1)
 import random
 number = random.randint(1,5)
 numbers = random.randint(1,5)
+NumOfQuestions = int(input)
