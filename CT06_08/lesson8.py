@@ -11,5 +11,4 @@
 # numbers.
 
 # 1. Using a for loop, ask the user for 5 numbers one at a time.
-# 2. Calculate the multiplication for these 5 numbers and print
-#    it out.
+# 2. Calculate the multiplication for these 5 numbers and print it out.
