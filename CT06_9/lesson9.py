@@ -49,9 +49,9 @@
 # 2. If the book has been borrowed for more than 25 days:
 #     print "Remember to return your book!"
 
-days_borrowed = int(input("number of days the book has been borrowed"))
-if days_borrowed > 25:
-    print("remember to return your book")
+# days_borrowed = int(input("number of days the book has been borrowed"))
+# if days_borrowed > 25:
+#     print("remember to return your book")
 
 # Task 3: Random Number Guesser I
 # **Task 3a**:
