@@ -117,3 +117,25 @@ else:
 
 total_price = (apples * apple_price) + (oranges * orange_price)
 print("$" ,total_price)
+
+
+
+# Task 6: Flowchart for Temperature Monitor
+# You are analyzing daily temperature readings over a week.
+# Write a program to count how many days had a temperature
+# that is greater than 30.
+
+# Draw out the flowchart (on a piece of paper) of the above
+# program.
+
+# 1. Start with creating and assigning the variable
+#    "positive_days" to 0 before the loop.
+# 2. Use a for loop to iterate through each day of the week
+#    (7 times)
+# 3. In each iteration the loop, prompt the user to input the
+#    temperature for the day.
+# 4. Use an 'if' condition to check if the temperature is greater
+#    than 30. If so, increase the variable 'positive_days' by
+#    1
+# 5. After the loop, print the count of days with temperature
+#    higher than 30.
