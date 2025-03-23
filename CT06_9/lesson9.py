@@ -51,4 +51,4 @@
 
 days_borrowed = int(input("number of days the book has been borrowed"))
 if days_borrowed > 25:
-    print("Remember to return your book!")
+    print("remember to return your book")
