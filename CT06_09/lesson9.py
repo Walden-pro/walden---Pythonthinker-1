@@ -36,4 +36,4 @@ isEven = num1 % 2 == 0
 isEven2 = num2 % 2 == 0
 isEven3 = num3 % 2 == 0 
 
-all_even_odd = isEven = isEven2 = isEven3
+all_even_odd = isEven = isEven2 == isEven3
