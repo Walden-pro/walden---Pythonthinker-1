@@ -22,7 +22,7 @@
 #    even or all odd numbers.
 # 6. Print if "All numbers are even/odd" is 'True' or 'False'
 
-# import random
+import random
 
 num1 = random.randint(1, 6)
 num2 = random.randint(1, 6)
