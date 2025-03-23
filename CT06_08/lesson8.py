@@ -182,14 +182,14 @@
 # between 1 and 10. The user should input the number of questions
 # they want to attempt.
 
-import random
-NumOfQuestions = int(input("number of questions"))
-for i in range(NumOfQuestions):
-    num1 = 0 
-    num2 = 0
-    num1 = random.randint(1,10)
-    num2 = random.randint(1,10)
-    num3 = num1 * num2
+# import random
+# NumOfQuestions = int(input("number of questions"))
+# for i in range(NumOfQuestions):
+#     num1 = 0 
+#     num2 = 0
+#     num1 = random.randint(1,10)
+#     num2 = random.randint(1,10)
+#     num3 = num1 * num2
 
 
 
@@ -206,8 +206,4 @@ for i in range(NumOfQuestions):
 #    by 2 (using '%').
 # 3. Print 'True' if number is even, otherwise print 'False'.
 
-
-number = int(input("What is the number"))
-
-even = number % 2 == 0
-print(even)
+/
