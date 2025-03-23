@@ -207,4 +207,5 @@
 # 3. Print 'True' if number is even, otherwise print 'False'.
 
 number = int(input("the number"))
-even = number
+even = number % 2 == 0
+pront
