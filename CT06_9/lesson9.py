@@ -98,5 +98,14 @@ if user_guess == number:
 # **Task 5b**:
 # Translate the flowchart that you have drawn (shown on screen)
 # into Python code.
+
 apple_price = 0.60
 orange_price = 0.90
+apples = int(input("Enter the number of apples you want to buy: "))
+oranges = int(input("Enter the number of oranges you want to buy: "))
+
+if apples > 5:
+    apple_price *= 0.9
+
+if oranges > 5:
+    orange_price *= 0.9
