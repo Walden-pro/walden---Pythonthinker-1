@@ -211,4 +211,4 @@ even = number % 2 == 0
 print(even)
 
 
-num2
+num1 = int(input("number 1"))
