@@ -67,3 +67,5 @@ if days_borrowed > 25:
 # Translate the flowchart that you have drawn (shown on screen)
 # into Python code.
 
+import random
+
