@@ -205,3 +205,4 @@ for i in range(NumOfQuestions):
 # 2. Check if there is any remainder when user input is divided
 #    by 2 (using '%').
 # 3. Print 'True' if number is even, otherwise print 'False'.
+
