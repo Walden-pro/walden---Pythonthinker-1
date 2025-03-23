@@ -45,7 +45,6 @@ print("All numbers are even or odd " ,all_even_odd)
 # Draw out the flowchart (on a piece of paper) of a program
 # to remind borrowers to return their books
 
-# 1. Ask the user to input the number of days a book has been
-#    borrowed
+# 1. Ask the user to input the number of days a book has been borrowed
 # 2. If the book has been borrowed for more than 25 days:
 #     print "Remember to return your book!"
