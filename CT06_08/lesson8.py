@@ -184,7 +184,7 @@
 
 import random
 NumOfQuestions = int(input("number of questions"))
-for i in range(NumOfQuestions)
+for i in range(NumOfQuestions):
     num1 = 0 
     num2 = 0
     num1 = random.randint(1,10)
