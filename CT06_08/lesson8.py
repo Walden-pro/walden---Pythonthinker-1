@@ -206,4 +206,4 @@
 #    by 2 (using '%').
 # 3. Print 'True' if number is even, otherwise print 'False'.
 
-number = int(input(""))
+number = int(input("the number"))
