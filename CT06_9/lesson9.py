@@ -76,19 +76,6 @@ if user_guess == number:
     print("Thats the magic number")
 
 
-# Task 4: Apple Shop
-# **Task 4a**:
-# Draw out the flowchart (on a piece of paper) of a program for
-# the user to buy apples and calculate the price.
 
-# Each apple costs $1
-
-# 1. Ask the user how many apples they want to buy
-# 2. If the user wants to buy more than 10 apples:
-#    print "You will get a 10% discount for buying that many
-#    apples!"
-# 4. Print the price of the purchase
-
-# **Task 4b**:
-# Translate the flowchart that you have drawn (shown on screen)
-# into Python code.
+apple_price = 0.60
+orange_price = 0.90
