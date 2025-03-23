@@ -110,3 +110,5 @@ if apples > 5:
 
 if oranges > 5:
     orange_price *= 0.9
+
+total_price = (apples * apple_price) + (oranges * orange_price)
