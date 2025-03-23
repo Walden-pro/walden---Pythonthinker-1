@@ -190,3 +190,18 @@ for i in range(NumOfQuestions):
     num1 = random.randint(1,10)
     num2 = random.randint(1,10)
     num3 = num1 * num2
+
+
+
+
+## Task 7: Even or Odd Checker
+
+# Write a program that asks the user to enter a number. The
+# program then tells the user whether the number is even
+# (True) or odd (False).
+
+# Your program needs to:
+# 1. Ask user for an integer input.
+# 2. Check if there is any remainder when user input is divided
+#    by 2 (using '%').
+# 3. Print 'True' if number is even, otherwise print 'False'.
