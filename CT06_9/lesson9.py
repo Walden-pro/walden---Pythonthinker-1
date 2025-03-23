@@ -52,3 +52,17 @@
 days_borrowed = int(input("number of days the book has been borrowed"))
 if days_borrowed > 25:
     print("remember to return your book")
+
+# Task 3: Random Number Guesser I
+# **Task 3a**:
+# Draw out the flowchart (on a piece of paper) of a program for
+# the user to guess a magic number:
+
+# 1. Generate a random integer between 1 to 10
+# 2. Ask the user to guess a number
+# 3. If the user guesses correctly:
+#     print "That's the magic number!"
+
+# **Task 3b**:
+# Translate the flowchart that you have drawn (shown on screen)
+# into Python code.
