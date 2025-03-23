@@ -32,4 +32,4 @@ print("number 1 is" +(str(num1)))
 print("number 2 is" +(str(num2)))
 print("number 3 is" +(str(num3)))
 
-isEven = 
+isEven = num1 % 
