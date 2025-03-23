@@ -33,3 +33,5 @@ print("number 2 is" +(str(num2)))
 print("number 3 is" +(str(num3)))
 
 isEven = num1 % 2 == 0
+isEven2 = num2 % 2 == 0
+i
