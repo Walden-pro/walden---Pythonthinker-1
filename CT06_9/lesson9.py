@@ -22,22 +22,22 @@
 #    even or all odd numbers.
 # 6. Print if "All numbers are even/odd" is 'True' or 'False'
 
-import random
+# import random
 
-num1 = random.randint(1, 6)
-num2 = random.randint(1, 6)
-num3 = random.randint(1, 6)
+# num1 = random.randint(1, 6)
+# num2 = random.randint(1, 6)
+# num3 = random.randint(1, 6)
 
-print("number 1 is" +(str(num1)))
-print("number 2 is" +(str(num2)))
-print("number 3 is" +(str(num3)))
+# print("number 1 is" +(str(num1)))
+# print("number 2 is" +(str(num2)))
+# print("number 3 is" +(str(num3)))
 
-isEven = num1 % 2 == 0
-isEven2 = num2 % 2 == 0
-isEven3 = num3 % 2 == 0 
+# isEven = num1 % 2 == 0
+# isEven2 = num2 % 2 == 0
+# isEven3 = num3 % 2 == 0 
 
-all_even_odd = isEven == isEven2 == isEven3
-print("All numbers are even or odd " ,all_even_odd)
+# all_even_odd = isEven == isEven2 == isEven3
+# print("All numbers are even or odd " ,all_even_odd)
 
 
 
