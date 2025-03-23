@@ -183,8 +183,10 @@
 # they want to attempt.
 
 import random
-num1 = random.randint(1,10)
-num2 = random.randint(1,10)
 NumOfQuestions = int(input("number of questions"))
-num3 = num1 * num2
-print
+for i in range(NumOfQuestions)
+    num1 = 0 
+    num2 = 0
+    num1 = random.randint(1,10)
+    num2 = random.randint(1,10)
+    num3 = num1 * num2
