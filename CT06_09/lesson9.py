@@ -28,7 +28,7 @@ num1 = random.randint(1, 6)
 num2 = random.randint(1, 6)
 num3 = random.randint(1, 6)
 
-print(num1)
+print("number 1 is" +num1)
 print(num2)
 print(num3)
 
