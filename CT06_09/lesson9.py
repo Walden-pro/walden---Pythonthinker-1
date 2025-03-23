@@ -37,4 +37,4 @@ isEven2 = num2 % 2 == 0
 isEven3 = num3 % 2 == 0 
 
 all_even_odd = isEven == isEven2 == isEven3
-print("All numbers are even or odd " +all)
+print("All numbers are even or odd " +all_even_odd)
