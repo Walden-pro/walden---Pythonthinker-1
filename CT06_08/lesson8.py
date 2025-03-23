@@ -207,6 +207,6 @@ for i in range(NumOfQuestions):
 # 3. Print 'True' if number is even, otherwise print 'False'.
 
 
-number = int(input("Whta"))
+number = int(input("What is the number"))
 
-
+even
