@@ -50,5 +50,5 @@ print("All numbers are even or odd " ,all_even_odd)
 #     print "Remember to return your book!"
 
 days_borrowed = int(input("number of days the book has been borrowed"))
-if days_borrowed >= 25:
+if days_borrowed > 25:
     print("Remember to return your book!")
