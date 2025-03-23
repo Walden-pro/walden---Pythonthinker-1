@@ -102,8 +102,8 @@
 apple_price = 0.60
 orange_price = 0.90
 
-apples = int(input("number of apples you want to buy: "))
-oranges = int(input("number of oranges you want to buy: "))
+apples = int(input("number of apples you want to buy "))
+oranges = int(input("number of oranges you want to buy "))
 
 if apples > 5:
     apple_price *= 0.9
