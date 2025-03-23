@@ -48,4 +48,5 @@ print("All numbers are even or odd " ,all_even_odd)
 # 1. Ask the user to input the number of days a book has been borrowed
 # 2. If the book has been borrowed for more than 25 days:
 #     print "Remember to return your book!"
+
 days_borrowed = int(input("number of days the book has been borrowed"))
