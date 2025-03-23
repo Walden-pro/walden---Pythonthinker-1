@@ -106,10 +106,14 @@ apples = int(input("number of apples you want to buy "))
 oranges = int(input("number of oranges you want to buy "))
 
 if apples > 5:
-    apple_price *= 0.9
+    total_apple_price = (5 * apple_price) + ((apples - 5) * apple_price * 0.9)
+else:
+    total_apple_price = apples * apple_price
 
 if oranges > 5:
-    orange_price *= 0.9
+    total_orange_price = (5 * orange_price) + ((oranges - 5) * orange_price * 0.9)
+else:
+    total_orange_price = oranges * orange_price
 
 total_price = (apples * apple_price) + (oranges * orange_price)
 print("$" ,total_price)
