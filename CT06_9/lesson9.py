@@ -73,4 +73,4 @@ number = random.randint(1,10)
 user_guess = int(input("Guess the number between 1 and 10 "))
 
 if user_guess == number:
-    print("Thats the magic number!")
+    print("Thats the magic number")
