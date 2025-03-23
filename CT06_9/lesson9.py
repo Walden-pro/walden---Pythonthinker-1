@@ -70,7 +70,7 @@ if days_borrowed > 25:
 import random
 
 number = random.randint(1,10)
-user_guess = int(input("Guess the magic number (between 1 and 10 "))
+user_guess = int(input("Guess the magic number between 1 and 10 "))
 
 if user_guess == number:
     print("That's the magic number!")
