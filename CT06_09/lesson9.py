@@ -38,3 +38,14 @@ isEven3 = num3 % 2 == 0
 
 all_even_odd = isEven == isEven2 == isEven3
 print("All numbers are even or odd " ,all_even_odd)
+
+
+
+# Task 1: Flowchart for Library Reminder
+# Draw out the flowchart (on a piece of paper) of a program
+# to remind borrowers to return their books
+
+# 1. Ask the user to input the number of days a book has been
+#    borrowed
+# 2. If the book has been borrowed for more than 25 days:
+#     print "Remember to return your book!"
