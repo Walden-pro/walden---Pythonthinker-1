@@ -209,4 +209,4 @@ for i in range(NumOfQuestions):
 
 number = int(input("What is the number"))
 
-even = number % 2 
+even = number % 2 == 0
