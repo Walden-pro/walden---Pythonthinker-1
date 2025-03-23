@@ -101,6 +101,7 @@ if user_guess == number:
 
 apple_price = 0.60
 orange_price = 0.90
+
 apples = int(input("Enter the number of apples you want to buy: "))
 oranges = int(input("Enter the number of oranges you want to buy: "))
 
