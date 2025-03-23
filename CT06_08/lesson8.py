@@ -207,3 +207,4 @@
 # 3. Print 'True' if number is even, otherwise print 'False'.
 
 number = int(input("the number"))
+even = number
