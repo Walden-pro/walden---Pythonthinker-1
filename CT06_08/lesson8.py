@@ -208,4 +208,7 @@
 
 number = int(input("the number"))
 even = number % 2 == 0
-pront
+print(even)
+
+
+num2
