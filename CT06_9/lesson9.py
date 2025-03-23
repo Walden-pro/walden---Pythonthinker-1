@@ -67,13 +67,13 @@
 # Translate the flowchart that you have drawn (shown on screen)
 # into Python code.
 
-import random
+# import random
 
-number = random.randint(1,10)
-user_guess = int(input("Guess the number between 1 and 10 "))
+# number = random.randint(1,10)
+# user_guess = int(input("Guess the number between 1 and 10 "))
 
-if user_guess == number:
-    print("Thats the magic number")
+# if user_guess == number:
+#     print("Thats the magic number")
 
 
 # Task 5: Fruits Shop
