@@ -212,3 +212,4 @@ print(even)
 
 
 num1 = int(input("number 1"))
+num2 = 
