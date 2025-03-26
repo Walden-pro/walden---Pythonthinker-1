@@ -99,24 +99,24 @@
 # Translate the flowchart that you have drawn (shown on screen)
 # into Python code.
 
-apple_price = 0.60
-orange_price = 0.90
+# apple_price = 0.60
+# orange_price = 0.90
 
-apples = int(input("number of apples you want to buy "))
-oranges = int(input("number of oranges you want to buy "))
+# apples = int(input("number of apples you want to buy "))
+# oranges = int(input("number of oranges you want to buy "))
 
-if apples > 5:
-    total_apple_price = (5 * apple_price) + ((apples - 5) * apple_price * 0.9)
-else:
-    total_apple_price = apples * apple_price
+# if apples > 5:
+#     total_apple_price = (5 * apple_price) + ((apples - 5) * apple_price * 0.9)
+# else:
+#     total_apple_price = apples * apple_price
 
-if oranges > 5:
-    total_orange_price = (5 * orange_price) + ((oranges - 5) * orange_price * 0.9)
-else:
-    total_orange_price = oranges * orange_price
+# if oranges > 5:
+#     total_orange_price = (5 * orange_price) + ((oranges - 5) * orange_price * 0.9)
+# else:
+#     total_orange_price = oranges * orange_price
 
-total_price = (apples * apple_price) + (oranges * orange_price)
-print("$" ,total_price)
+# total_price = (apples * apple_price) + (oranges * orange_price)
+# print("$" ,total_price)
 
 
 
@@ -139,3 +139,30 @@ print("$" ,total_price)
 #    1
 # 5. After the loop, print the count of days with temperature
 #    higher than 30.
+
+# Task 8: Summing Positive Numbers
+# **Task 8a**:
+# Draw out the flowchart (on a piece of paper) of a program
+# that will calculate the total sum of **savings** 
+# (include in total only if savings for that day is positive)
+# from a week's worth of data provided by the user every day.
+
+# 1. Create and assign 'sum' variable to 0.
+# 2. Use a 'for' loop to iterate through each day of the week
+#    (7 times)
+# 3. In each iteration, prompt the user to input the
+#    savings for the day.
+# 4. Use an if condition to check if the savings is greater
+#    than 0. If so, increase the variable 'sum' by
+#    that day's savings.
+# 5. After the loop, print the sum of savings for that week
+
+
+sum = 0
+for i in range(7):
+    Bruh = int(input("Saving"))
+    if Bruh > 0:
+        sum = sum + Bruh
+print(sum)
+
+
