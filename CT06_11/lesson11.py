@@ -192,8 +192,8 @@ pw = "pw123"
 user_un = input("What is your username?")
 user_pw = input("What is your password?")
 if un == user_un and pw == user_pw:
-    print("Acces granted!")
+    print("Acces Granted!")
 elif un == user_un or pw == user_pw:
     print("One of them are correct!")
 else:
-    print("Acces granted!")
+    print("Acces Denied!")
