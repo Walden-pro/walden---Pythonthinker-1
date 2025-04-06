@@ -56,4 +56,4 @@ if number % 3 == 0 and number % 7 == 0:
 Fn = int(input("First name"))
 ln = int(input("Last name."))
 if Fn == "James" and ln == "Leong":
-    print("")
+    print("YOU ARE WANTED")
