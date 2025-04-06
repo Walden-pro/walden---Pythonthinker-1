@@ -134,3 +134,13 @@ if not colour == "Green":
 # 1. Ask the user for the day of the week.
 # 2. Using the 'not' operator, check if the input is not "Saturday".
 # 3. If true, print "It's not the weekend yet!"
+
+
+# Task 9: Not the Correct Password (NOT)
+# Create a program that prompts for a password. If the entered password
+# is not "Python123", the program should display "Access Denied."
+
+# 1. Prompt the user for a password.
+# 2. Using the 'not' operator, check if the password is not "Python123".
+# 3. If true, display "Access Denied."
+ 
