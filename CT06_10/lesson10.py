@@ -100,7 +100,7 @@ else: # ez is definitely >= 13
 ez = int(input("GIVMME YUR AGE NOW"))
 if ez < 13:
     print("Child")
-elif 13 ez < 20:
+elif ez < 20:
     print("Teenage bruhh guy")
 elif ez < 21:
     print("minor")
