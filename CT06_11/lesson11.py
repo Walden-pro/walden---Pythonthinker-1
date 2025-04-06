@@ -10,4 +10,4 @@
 #     px <= 500: "Where are you getting this money from?!"
 #     px > 500: "Don't even think about it!"
  
-item = int(input(""))
+px = int(input("The price of the item."))
