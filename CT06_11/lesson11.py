@@ -88,11 +88,11 @@
 #    more than 65. If true, print "Ticket price: $15"
 # 3. Else, print "Ticket price: $20"
 
-age = int(input("What is your age?"))
-if age > 65 or age < 12:
-    print("Ticket price: $15")
-else:
-    print("Ticket price: $20")
+# age = int(input("What is your age?"))
+# if age > 65 or age < 12:
+#     print("Ticket price: $15")
+# else:
+#     print("Ticket price: $20")
 
 
 
@@ -106,11 +106,11 @@ else:
 # 3. Else, print "Invalid Input"
 
 
-Gender = (input("input")) # dont need to convert to string. by default, input gives string
-if Gender == "M" or Gender == "Male":
-    print("Valid Input")
-else:
-    print("Invalid Input")
+# Gender = (input("input")) # dont need to convert to string. by default, input gives string
+# if Gender == "M" or Gender == "Male":
+#     print("Valid Input")
+# else:
+#     print("Invalid Input")
 
 
 # Task 7: Colour filter (NOT)
