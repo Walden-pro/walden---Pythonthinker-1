@@ -166,8 +166,23 @@
 #     print "Won't you get thirsty?"
 
 
-burger = input("Do you want a burger ")
-fries = input("Do you want a fries ")
-drink = input("Do you want some drink ")
-if burger == "yes" and fries == "yes" and not drink == "yes":
-    print("Won't you get thirsty?")
+# burger = input("Do you want a burger ")
+# fries = input("Do you want a fries ")
+# drink = input("Do you want some drink ")
+# if burger == "yes" and fries == "yes" and not drink == "yes":
+#     print("Won't you get thirsty?")
+
+
+# Task 11: Login Credentials (AND, OR)
+# Create a program that allows John to log in to TokTik.
+
+# 1. John's username is 'John123' and his password is 'pw123'
+# 2. The TokTik program will only allow John to log in.
+# 3. Create 2 variables to store John's username and password
+# 4. Ask John to enter his username and password
+# 5. If both the username and password matches:
+#     print "Access Granted"
+# 6. If either the username or password is correct:
+#     print "Either username or password is incorrect"
+# 7. Otherwise:
+#     print "Access Denied"
