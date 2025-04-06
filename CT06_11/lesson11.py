@@ -53,7 +53,10 @@
 # if it matches "James" and "Leong" respectively and print "YOU ARE
 # WANTED" if true.
 
-Fn = (input("First name"))
-ln = (input("Last name"))
+Fn = (input("First name "))
+ln = (input("Last name "))
 if Fn == "James" and ln == "Leong":
     print("YOU ARE WANTED")
+
+
+
