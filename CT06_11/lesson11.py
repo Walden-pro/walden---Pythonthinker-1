@@ -54,3 +54,11 @@ print(result)
 number = int(input("What is the number?"))
 if number % 3 == 0 and number % 7 == 0:
     print("The number can be divided by 3 and 7.")
+
+
+
+
+# Task 3: Identity Identifier (AND)
+# Create a program that asks for user's first and last name and checks
+# if it matches "James" and "Leong" respectively and print "YOU ARE
+# WANTED" if true.
