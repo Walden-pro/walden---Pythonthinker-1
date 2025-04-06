@@ -150,10 +150,10 @@
 # 2. Using the 'not' operator, check if the password is not "Python123".
 # 3. If true, display "Access Denied."
 
-password = "python123"
-userinput = input("What is the password?")
-if not userinput == password:
-    print("Access denied")
+# password = "python123"
+# userinput = input("What is the password?")
+# if not userinput == password:
+#     print("Access denied")
 
 
 # Task 10: What do you want to eat? (AND, NOT)
