@@ -93,3 +93,14 @@ if age > 65 or age < 12:
     print("Ticket price: $15")
 else:
     print("Ticket price: $20")
+
+
+
+# Task 6: Input Validator (OR)
+# Using the 'or' operator, create a program that prints "Valid Input"
+# if the user has entered "M" or "Male" as an input. Or else, print
+# "Invalid Input" instead
+
+# 1. Ask user for input
+# 2. If user input is "M" OR "Male", print "Valid Input"
+# 3. Else, print "Invalid Input"
