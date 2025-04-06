@@ -124,3 +124,13 @@ else:
 colour = input("What is the colour??")
 if not colour == "Green":
     print("")
+
+
+# Task 8: Not the Right Day (NOT)
+# Create a program that asks the user for the day of the week. If the
+# input is not "Saturday", the program should print "It's not the
+# weekend yet!"
+
+# 1. Ask the user for the day of the week.
+# 2. Using the 'not' operator, check if the input is not "Saturday".
+# 3. If true, print "It's not the weekend yet!"
