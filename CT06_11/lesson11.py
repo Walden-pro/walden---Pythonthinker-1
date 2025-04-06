@@ -214,4 +214,4 @@ else:
 # 4. Otherwise, print "Game is paused or inactive."
 
 
-game
+game_status = ""
