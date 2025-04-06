@@ -164,3 +164,4 @@ if not userinput == password:
 # 3. Ask the user if they want fries
 # 4. If the user wants a burger and fries but not a drink:
 #     print "Won't you get thirsty?"
+
