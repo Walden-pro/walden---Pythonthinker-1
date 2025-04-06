@@ -73,4 +73,17 @@ if Fn == "James" and ln == "Leong":
 rider1 = 25
 rider2 = 6
 if rider1 >= 18 or rider2 >= 18:
-    print("")
+    print("You can ride!")
+
+
+
+# Task 5: Ticket Pricing Machine (OR)
+# Create a program that will decide on the price of a ticket based on
+# user's age. Original ticket price costs $20 per person. However,
+# children below the age of 12 and elderly above the age of 65 can buy
+# the ticket for just $15.
+
+# 1. Ask user for their age
+# 2. Use the 'or' operator to determine if user's age is less than 12 or
+#    more than 65. If true, print "Ticket price: $15"
+# 3. Else, print "Ticket price: $20"
