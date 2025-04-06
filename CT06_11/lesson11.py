@@ -19,3 +19,14 @@ elif px <= 500:
     print("Where are you getting this money from?!")
 else:
     print("Don't even think about it!")
+
+
+
+# Task 1: AND Operator in Simple Conditions (AND)
+# You are writing a program for an amusement park that needs to check
+# if both riders of a ride are above the height of 120cm. Use the 'and'
+# operator to determine if value of both 'rider1' and 'rider2' are
+# greater than 120.
+
+# 'rider1' = 125
+# 'rider2' = 150
