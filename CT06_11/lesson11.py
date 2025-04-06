@@ -189,4 +189,5 @@
 
 un = "John123"
 pw = "pw123"
-user_un = input()
+user_un = input("What is your username?")
+user_pw = input*
