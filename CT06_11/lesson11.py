@@ -146,5 +146,5 @@ if not colour == "Green":
 
 password = "python123"
 userinput = input("What is the password?")
-if not userinput == password # better not to name it input, can try userinputif not input == password:
+if not userinput == password: # better not to name it input, can try userinputif not input == password:
     print("Access denied")
