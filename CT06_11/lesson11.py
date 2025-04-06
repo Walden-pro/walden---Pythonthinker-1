@@ -51,3 +51,4 @@ print(result)
 
 
 
+number = int(input(""))
