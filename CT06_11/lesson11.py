@@ -106,6 +106,6 @@ else:
 # 3. Else, print "Invalid Input"
 
 
-Gender = str(input("input"))
+Gender = (input("input")) # dont need to convert to string. by default, input gives string
 if Gender == "M" or Gender == "Male":
-    Print
+    print()
