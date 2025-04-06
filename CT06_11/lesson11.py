@@ -136,10 +136,10 @@
 # 3. If true, print "It's not the weekend yet!"
 
 
-day = "Saturday"
-user_input = input("What is the day?")
-if not user_input == day:
-    print("Its not the weekend yet.")
+# day = "Saturday"
+# user_input = input("What is the day?")
+# if not user_input == day:
+#     print("Its not the weekend yet.")
 
 
 # Task 9: Not the Correct Password (NOT)
