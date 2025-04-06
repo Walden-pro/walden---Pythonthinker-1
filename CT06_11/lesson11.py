@@ -54,4 +54,4 @@ if number % 3 == 0 and number % 7 == 0:
 # WANTED" if true.
 
 Fn = int(input("First name"))
-
+ln = int(inou)
