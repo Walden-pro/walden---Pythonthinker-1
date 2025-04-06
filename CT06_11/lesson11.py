@@ -122,5 +122,5 @@ else:
 #    If true, print "Try again"
 
 colour = input("What is the colour??")
-if colour == Green:
+if not colour == "Green":
     print("")
