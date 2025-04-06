@@ -11,3 +11,7 @@
 #     px > 500: "Don't even think about it!"
  
 px = int(input("The price of the item."))
+if px <= 5:
+        print("Sounds good!")
+elif px <= 50:
+    print("")
