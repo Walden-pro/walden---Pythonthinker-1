@@ -154,3 +154,13 @@ password = "python123"
 userinput = input("What is the password?")
 if not userinput == password:
     print("Access denied")
+
+
+# Task 10: What do you want to eat? (AND, NOT)
+# Create a program that asks the user what they want to eat
+
+# 1. Ask the user if they want a burger
+# 2. Ask the user if they want a drink
+# 3. Ask the user if they want fries
+# 4. If the user wants a burger and fries but not a drink:
+#     print "Won't you get thirsty?"
