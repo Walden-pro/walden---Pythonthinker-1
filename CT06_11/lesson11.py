@@ -51,9 +51,9 @@
 
 
 
-# number = int(input("What is the number?"))
-# if number % 3 == 0 and number % 7 == 0:
-#     print("The number can be divided by 3 and 7.")
+number = int(input("What is the number?"))
+if number % 3 == 0 and number % 7 == 0:
+    print("The number can be divided by 3 and 7.")
 
 
 
