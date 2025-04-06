@@ -106,4 +106,4 @@ else:
 # 3. Else, print "Invalid Input"
 
 
-Gender = str(input("W"))
+Gender = str(input("input"))
