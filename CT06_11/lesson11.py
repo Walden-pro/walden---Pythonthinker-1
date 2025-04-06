@@ -88,4 +88,6 @@ if rider1 >= 18 or rider2 >= 18:
 #    more than 65. If true, print "Ticket price: $15"
 # 3. Else, print "Ticket price: $20"
 
-age = int(input(""))
+age = int(input("What is your age?"))
+if age > 65 or age < 12:
+    print()
