@@ -190,4 +190,5 @@
 un = "John123"
 pw = "pw123"
 user_un = input("What is your username?")
-user_pw = input*
+user_pw = input("What is your password?")
+if un == user_un and pw == user_pw:
