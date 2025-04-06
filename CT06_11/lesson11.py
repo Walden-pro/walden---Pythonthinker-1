@@ -53,10 +53,10 @@
 # if it matches "James" and "Leong" respectively and print "YOU ARE
 # WANTED" if true.
 
-Fn = (input("First name "))
-ln = (input("Last name "))
-if Fn == "James" and ln == "Leong":
-    print("YOU ARE WANTED")
+# Fn = (input("First name "))
+# ln = (input("Last name "))
+# if Fn == "James" and ln == "Leong":
+#     print("YOU ARE WANTED")
 
 
 
@@ -92,4 +92,4 @@ age = int(input("What is your age?"))
 if age > 65 or age < 12:
     print("Ticket price: $15")
 else:
-    print("Ticket price: $")
+    print("Ticket price: $20")
