@@ -109,3 +109,5 @@ else:
 Gender = (input("input")) # dont need to convert to string. by default, input gives string
 if Gender == "M" or Gender == "Male":
     print("Valid Input")
+else:
+    print()
