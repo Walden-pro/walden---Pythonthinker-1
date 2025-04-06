@@ -70,3 +70,4 @@ if Fn == "James" and ln == "Leong":
 # 'rider1' = 25
 # 'rider2' = 6
 
+rider1 = 
