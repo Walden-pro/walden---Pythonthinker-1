@@ -123,7 +123,7 @@ else:
 
 colour = input("What is the colour??")
 if not colour == "Green":
-    print("")
+    print("Try again.")
 
 
 # Task 8: Not the Right Day (NOT)
