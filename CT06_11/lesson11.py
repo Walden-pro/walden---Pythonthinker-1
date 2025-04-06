@@ -9,3 +9,5 @@
 #     px <= 50: "Are you sure you need this?"
 #     px <= 500: "Where are you getting this money from?!"
 #     px > 500: "Don't even think about it!"
+ 
+ans
