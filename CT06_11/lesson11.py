@@ -134,8 +134,10 @@ if not colour == "Green":
 # 1. Ask the user for the day of the week.
 # 2. Using the 'not' operator, check if the input is not "Saturday".
 # 3. If true, print "It's not the weekend yet!"
-day = input("")
-
+day = "Saturday"
+user_input = input("What is the day?")
+if not user_input == day:
+    print("Its not the weekend yet.")
 # Task 9: Not the Correct Password (NOT)
 # Create a program that prompts for a password. If the entered password
 # is not "Python123", the program should display "Access Denied."
@@ -146,5 +148,5 @@ day = input("")
 
 password = "python123"
 userinput = input("What is the password?")
-if not userinput == password: # better not to name it input, can try userinputif not input == password:
+if not userinput == password:
     print("Access denied")
