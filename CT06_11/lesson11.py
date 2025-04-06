@@ -144,5 +144,7 @@ if not colour == "Green":
 # 2. Using the 'not' operator, check if the password is not "Python123".
 # 3. If true, display "Access Denied."
 
-
-password = input()
+password = "python123"
+userinput = input("What is the password?")
+if not userinput == password # better not to name it input, can try userinputif not input == password:
+    print("Access denied")
