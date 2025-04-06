@@ -54,6 +54,6 @@
 # WANTED" if true.
 
 Fn = (input("First name"))
-ln = (input("Last name."))
+ln = (input("Last name"))
 if Fn == "James" and ln == "Leong":
     print("YOU ARE WANTED")
