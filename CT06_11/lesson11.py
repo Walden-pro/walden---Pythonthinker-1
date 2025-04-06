@@ -134,7 +134,7 @@ if not colour == "Green":
 # 1. Ask the user for the day of the week.
 # 2. Using the 'not' operator, check if the input is not "Saturday".
 # 3. If true, print "It's not the weekend yet!"
-
+day = input("")
 
 # Task 9: Not the Correct Password (NOT)
 # Create a program that prompts for a password. If the entered password
