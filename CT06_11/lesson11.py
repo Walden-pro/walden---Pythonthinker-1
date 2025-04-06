@@ -62,3 +62,6 @@ if number % 3 == 0 and number % 7 == 0:
 # Create a program that asks for user's first and last name and checks
 # if it matches "James" and "Leong" respectively and print "YOU ARE
 # WANTED" if true.
+
+
+
