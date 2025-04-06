@@ -107,4 +107,5 @@ else:
 
 
 Gender = str(input("input"))
-if Gender == "M" or Gender == "Male"
+if Gender == "M" or Gender == "Male":
+    Print
