@@ -187,16 +187,16 @@
 # 7. Otherwise:
 #     print "Access Denied"
 
-un = "John123"
-pw = "pw123"
-user_un = input("What is your username?")
-user_pw = input("What is your password?")
-if un == user_un and pw == user_pw:
-    print("Access Granted!")
-elif un == user_un or pw == user_pw:
-    print("One of them are correct!")
-else:
-    print("Access Denied!")
+# un = "John123"
+# pw = "pw123"
+# user_un = input("What is your username?")
+# user_pw = input("What is your password?")
+# if un == user_un and pw == user_pw:
+#     print("Access Granted!")
+# elif un == user_un or pw == user_pw:
+#     print("One of them are correct!")
+# else:
+#     print("Access Denied!")
 
 # Task 12: Game status report (OR, NOT)
 # Imagine you're programming a simple game. Write a conditional
