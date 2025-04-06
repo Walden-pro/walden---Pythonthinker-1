@@ -171,4 +171,4 @@ fries = input("Do you want a drink")
 drink = input("Do you want some fries")
 
 if burger == "yes" and fries == "yes" and not drink == "yes":
-    print()
+    print("Won")
