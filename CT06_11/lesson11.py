@@ -187,4 +187,5 @@
 # 7. Otherwise:
 #     print "Access Denied"
 
-un = Jhon
+un = "John123"
+pw = ""
