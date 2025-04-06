@@ -217,4 +217,5 @@ else:
 game_status = "active"
 if game_status == "active" or not game_status == "paused":
     print("Game in progress")
-    
+else:
+    print("Game ")
