@@ -145,4 +145,4 @@ if not colour == "Green":
 # 3. If true, display "Access Denied."
 
 
-P
+password = input()
