@@ -87,3 +87,4 @@ if rider1 >= 18 or rider2 >= 18:
 # 2. Use the 'or' operator to determine if user's age is less than 12 or
 #    more than 65. If true, print "Ticket price: $15"
 # 3. Else, print "Ticket price: $20"
+
