@@ -33,5 +33,6 @@
 rider1 = 125
 rider2 = 150
 
-rider1 and rider2 >= 240
+result = rider1 and rider2 >= 240
+print(result)
      
