@@ -143,4 +143,6 @@ if not colour == "Green":
 # 1. Prompt the user for a password.
 # 2. Using the 'not' operator, check if the password is not "Python123".
 # 3. If true, display "Access Denied."
- 
+
+
+P
