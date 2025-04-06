@@ -104,3 +104,5 @@ else:
 # 1. Ask user for input
 # 2. If user input is "M" OR "Male", print "Valid Input"
 # 3. Else, print "Invalid Input"
+
+
