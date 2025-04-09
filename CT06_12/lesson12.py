@@ -12,5 +12,4 @@
 
 
 
-bruh = int(input(""
-))
+bruh = int(input("What is the number?"))
