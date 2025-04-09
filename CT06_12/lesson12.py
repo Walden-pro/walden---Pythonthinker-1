@@ -48,22 +48,22 @@
 
 
 
-gyat = 0
-while gyat < 50:
-    gyat += 1
-    print("Number of visitors admitted:", gyat)
+# gyat = 0
+# while gyat < 50:
+#     gyat += 1
+#     print("Number of visitors admitted:", gyat)
 
-visitors = 18
-mvs = 30
-while visitors < mvs:
-    visitors += 1
-    print("Number of visitors admitted:", visitors)
+# visitors = 18
+# mvs = 30
+# while visitors < mvs:
+#     visitors += 1
+#     print("Number of visitors admitted:", visitors)
 
-visitors = 4
-max_visitors = 25
-while visitors < max_visitors:
-    visitors += 1
-    print("Number of visitors admitted:", visitors)
+# visitors = 4
+# max_visitors = 25
+# while visitors < max_visitors:
+#     visitors += 1
+#     print("Number of visitors admitted:", visitors)
 
 
 
@@ -75,5 +75,91 @@ while visitors < max_visitors:
 # Using an 'if' condition and 'break' within the 'while' loop,
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
+
+
+gyat = 0
+while gyat < 50:
+    gyat += 1
+    if gyat == 30:
+        break
+
+
+# Task 3: Order taking using while loop
+# Using what you have learnt so far, code a program to take a
+# customer's order.
+
+# Declare a variable called 'order' and assign an empty string
+# variable "" to it.
+
+# Using a 'while' loop:
+# 1. Ask the user to enter their order
+# 2. For each order entered, concatenate to the 'order' variable.
+# 3. Exit the 'while' loop if the user enters "end"
+# 4. On program end, print out the customer's order.
+
+# **Bonus**
+# 1. Modify your code to remove the comma (",") that appears
+#    either at the start or end of your sentence
+
+# order = ""
+# while True:
+#     oi = input("What is your order? ")
+#     if oi == "end":
+#         break
+#     order += oi + ", "
+# print("Your order is: " + order[0:-2])
+
+
+
+# Task 5: Math Question
+# **Task 5a**:
+# Create a program to test the user on their math skills! The
+# program will continue generating new questions until the user
+# get the correct answer.
+
+# 1. Using a 'while' loop, 
+# 2. Generate 2 random numbers between 1 and 10 (import 'random'
+#    and use 'random.randint()')
+# 3. Ask the user to add the 2 numbers together in the following
+#    format:
+#     "What is 3 + 5?"
+# 4. If the user gets the correct answer:
+#     Print "That's correct!
+# 5. Else:
+#     print "Wrong! Try again"
+#     End the 'while' loop
+    
+# **Bonus**
+# Some ideas to improve on the above program:
+# 1. Print the user's score once the game is over
+# 2. Randomly choose an operator for each question: + - *
+
+# **Task 5b**:
+# Modify your answer from Task 5a to keep asking a new
+# question until the user get 5 correct answers.
+
+# **Bonus**
+# Some ideas to improve on the above program:
+# 1. Add a score system (+2 for right answer, -1 for wrong answer)
+# 2. Add an ability for users to skip by saying "skip"
+# 3. Disqualify user when they have gotten the wrong answer or
+#    skipped more than 5 times
+
+
+# while True:
+#     import random
+#     num1 = random.randint(1,10)
+#     num2 = random.randint(1,10)
+#     bruhh = input("What is " + str(num1) + " + " + str(num2) + "? ")
+#     if bruhh == str(num1 + num2):
+#         print("Correct!")
+#     else:
+#         print("WRONG!")
+#         break
+
+
+
+
+
 
 
