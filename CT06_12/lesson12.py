@@ -49,4 +49,4 @@ else:
 visitors = 0
 while visitors < 50:
     visitors += 1
-    print("Number of visitors admitted")
+    print("Number of visitors admitted:", visitors)
