@@ -14,4 +14,4 @@
 
 bruh = int(input("What is the number?"))
 if bruh % 3 == 0 and bruh % 5 == 0:
-    print
+    print("The number is divisi")
