@@ -77,4 +77,4 @@
 visitors = 0
 if visitors == 30:
     print("The restaurant is at max capacity!")
-    break
+
