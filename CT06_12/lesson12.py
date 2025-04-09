@@ -49,7 +49,7 @@
 gyat = 0
 while gyat < 50:
     gyat += 1
-    print("Number of visitors admitted:", visitors)
+    print("Number of visitors admitted:", gyat)
 
 visitors = 18
 max_visitors = 30
