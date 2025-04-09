@@ -47,3 +47,5 @@ else:
 # Max visitors allowed: 25
 
 
+while visitors < 50:
+    
