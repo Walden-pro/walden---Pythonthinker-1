@@ -58,3 +58,4 @@ while visitors < max_visitors:
     print("Number of visitors admitted:", visitors)
 
 visitors = 4
+max_visitors = 25
