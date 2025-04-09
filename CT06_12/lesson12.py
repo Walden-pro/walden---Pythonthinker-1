@@ -48,7 +48,7 @@
 
 gyat = 0
 while gyat < 50:
-    visitors += 1
+    gyat += 1
     print("Number of visitors admitted:", visitors)
 
 visitors = 18
