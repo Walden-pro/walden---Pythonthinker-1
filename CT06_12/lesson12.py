@@ -47,7 +47,7 @@
 # Max visitors allowed: 25
 
 gyat = 0
-while visitors < 50:
+while gyat < 50:
     visitors += 1
     print("Number of visitors admitted:", visitors)
 
