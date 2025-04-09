@@ -64,4 +64,3 @@ while visitors < max_visitors:
     print("Number of visitors admitted:", visitors)
 
 
-st
