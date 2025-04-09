@@ -12,11 +12,11 @@
 
 
 
-bruh = int(input("What is the number?"))
-if bruh % 3 == 0 and bruh % 5 == 0:
-    print("The number is divisible by 3 and 5!")
-else:
-    print("The number is not divisible by 3 and 5!")
+# bruh = int(input("What is the number?"))
+# if bruh % 3 == 0 and bruh % 5 == 0:
+#     print("The number is divisible by 3 and 5!")
+# else:
+#     print("The number is not divisible by 3 and 5!")
 
 
 # Task 1: Introduction to while loop
