@@ -51,4 +51,7 @@ while visitors < 50:
     visitors += 1
     print("Number of visitors admitted:", visitors)
 
-visit
+visitors = 18
+max_visitors = 30
+while visitors < max_visitors:
+    
