@@ -54,8 +54,8 @@ while gyat < 50:
     print("Number of visitors admitted:", gyat)
 
 visitors = 18
-max_visitors = 30
-while visitors < max_visitors:
+mvs = 30
+while visitors < mvs:
     visitors += 1
     print("Number of visitors admitted:", visitors)
 
@@ -76,3 +76,4 @@ while visitors < max_visitors:
 # modify your answer for Task 1a to terminate the 'while' loop when
 # number of visitors is 30.
 
+wh
