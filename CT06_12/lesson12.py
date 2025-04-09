@@ -12,11 +12,11 @@
 
 
 
-bruh = int(input("What is the number?"))
-if bruh % 3 == 0 and bruh % 5 == 0:
-    print("The number is divisible by 3 and 5!")
-else:
-    print("The number is not divisible by 3 and 5!")
+# bruh = int(input("What is the number?"))
+# if bruh % 3 == 0 and bruh % 5 == 0:
+#     print("The number is divisible by 3 and 5!")
+# else:
+#     print("The number is not divisible by 3 and 5!")
 
 
 # Task 1: Introduction to while loop
@@ -51,16 +51,16 @@ while visitors < 50:
     visitors += 1
     print("Number of visitors admitted:", visitors)
 
-visitors = 18
-max_visitors = 30
-while visitors < max_visitors:
-    visitors += 1
-    print("Number of visitors admitted:", visitors)
+# visitors = 18
+# max_visitors = 30
+# while visitors < max_visitors:
+#     visitors += 1
+#     print("Number of visitors admitted:", visitors)
 
-visitors = 4
-max_visitors = 25
-while visitors < max_visitors:
-    visitors += 1
-    print("Number of visitors admitted:", visitors)
+# visitors = 4
+# max_visitors = 25
+# while visitors < max_visitors:
+#     visitors += 1
+#     print("Number of visitors admitted:", visitors)
 
 
