@@ -77,11 +77,11 @@
 # number of visitors is 30.
 
 
-gyat = 0
-while gyat < 50:
-    gyat += 1
-    if gyat == 30:
-        break
+# gyat = 0
+# while gyat < 50:
+#     gyat += 1
+#     if gyat == 30:
+#         break
 
 
 # Task 3: Order taking using while loop
@@ -162,4 +162,38 @@ while gyat < 50:
 
 
 
+
+# Task 6: Dice Roll till 4
+# Using 'while' loop and the 'random.randint()' function from the
+# 'random' library, constantly print a random number between 1 and
+# 6 until the random number generated is 4.
+
+# 1. Import the 'random' library
+# 2. Create 'num' variable and assign it '0'
+# 3. While 'num' variable is not '4',
+#     a. Using 'random.randint()', assign 'num' variable a random
+#        number between 1 and 6.
+#     b. Print the random number generated.
+
+# **Bonus**
+# Some ideas to improve on the above program:
+# 1. Add a counter variable and announce the number of tries it
+#    took before rolling a '4'.
+# 2. Add the ability for the user to determine which number to roll
+#    until (instead of '4' all the time).
+# 3. Break out of the 'while' loop if counter variable reaches 10
+#    and print "You have won the jackpot!"
+
+
+# import random
+# num = 0
+# counter = 0
+# while num != 4 and counter < 10:
+#     num = random.randint(1, 6)
+#     print(num)
+#     counter += 1
+#     if num == 4:
+#         print("You rolled 4!!")
+#     elif counter == 10:
+#         print("Bruhhhhhhhhhhh aaaaaaaauuuuuuggggggggghhhhhhhhhhhh You won the jacketpot!")
 
