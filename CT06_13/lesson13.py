@@ -122,19 +122,19 @@
 # 2. If the item is in the list, say "Yes we sell that."
 # 3. Else, say "Sorry, we don't have that."
 
-catalogue = []
-while True:
-    item = input("input the items their online catalogue should have.")
-    if item == "end":
-        break
-    catalogue.append(item)
+# catalogue = []
+# while True:
+#     item = input("input the items their online catalogue should have.")
+#     if item == "end":
+#         break
+#     catalogue.append(item)
 
-while True:
-    items = input("What are you looking for?")
-    if items in catalogue:
-        print("Yes we sell that.")
-    else:
-        print("Sorry, we don't have that.")
+# while True:
+#     items = input("What are you looking for?")
+#     if items in catalogue:
+#         print("Yes we sell that.")
+#     else:
+#         print("Sorry, we don't have that.")
         
 
 
@@ -150,9 +150,67 @@ while True:
 #     b. Winner #2: 3241
 #     c. Etc...
 
-import random
-for i in range(10):
-    luckk = random.randint(1, 9999)
-    print("winner "(i) + str(luckk))
 
+
+# import random
+# for i in range(1):
+#     luck = []
+#     luck.append(random.randint(1, 9999))
+# for i in range(1,11):
+#     luckk = random.randint(1, 9999)
+#     print("winner" , (i) , "is" , str(luckk))
+
+
+
+
+
+# Task 6: Pizza Topping
+# Create a program that asks the user what pizza topping they want
+
+# 1. Create a list of pizza toppings
+# 2. Print out the list of pizza toppings with an index number next
+#    to each of them in this format:
+#     "1. Mushrooms"
+#     "2. Pepperoni"
+#     "3. Pineapple"
+#     ...
+# 3. In a 'while' loop, ask the user which pizza topping they want
+#    (By index)
+# 4. Exit the 'while' loop only when the user enters "end"
+# 5. Print the toppings that the user has selected
+
+oh = 1
+ohhhhs = ["mushrooms", "pepperroni", "pineapples"]
+for ohhhh in ohhhhs:
+    print(str(oh) + ". " + ohhhh)
+    oh += 1
+while True:
+    brhh = input("What pizza topping DO YOU WANT?!?!?!")
+    if brhh == "end":
+        break
+    print("You have selected " + str(brhh))
+
+# 13.6 Teacher solution
+# Step 1: Create a list of pizza toppings
+# pizza_toppings = ["Mushrooms", "Pepperoni", "Pineapple", "Onions", "Sausage", "Bacon", "Extra cheese", "Black olives", "Green peppers", "Fresh garlic"]
+# user_toppings = []
+
+# # Step 2: Use a 'for' loop to print the list of pizza toppings without using len() or enumerate()
+# print("Available pizza toppings:")
+# i = 1  # Manually track the index
+# for topping in pizza_toppings:
+#     print(str(i) + ". " + topping)
+#     i += 1  # Increment the index manually
+
+# # Step 3: Ask the user which pizza topping they want (By index)
+
+# while True:
+#     user_choice = input("Please choose your pizza topping by number: ")
+#     if user_choice == "end":
+#         break
+#     else:
+#         user_toppings.append(pizza_toppings[int(user_choice) - 1])
+
+# for i in user_toppings:
+#     print(i)
 
