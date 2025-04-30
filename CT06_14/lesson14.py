@@ -106,18 +106,6 @@
 #     t.left(90)
 # window.mainloop()
 
-#PENTAGON
-# import turtle
-# window = turtle.Screen()
-# window.setup(width=600, height=400)
-# t = turtle.Turtle()
-# t.down()
-# t.seth(0)
-# for i in range(5):
-#     t.forward(100)
-#     t.left(72)
-# window.mainloop()
-
 # import turtle
 # window = turtle.Screen()
 # window.setup(width=600, height=400)
@@ -130,13 +118,94 @@
 # window.mainloop()
 
 
+# import turtle
+# window = turtle.Screen()
+# window.setup(width=600, height=400)
+# t = turtle.Turtle()
+# t.down()
+# t.seth(0)
+# for i in range(360):
+#     t.forward(0.69)
+#     t.left(1)
+# window.mainloop()
+
+
+
+# import turtle
+# window = turtle.Screen()
+# window.setup(width=600 , height=400)
+# t = turtle.Turtle()
+# t.down()
+# t.seth(0)
+# for i in range(5):
+#     t.forward(100)
+#     t.left(72)
+# window.mainloop()
+
+
+
+
+# import turtle
+# window = turtle.Screen()
+# window.setup(width=600 , height=400)
+# t = turtle.Turtle()
+# t.sety(-200)
+# t.down()
+# t.sety(200)
+# t.up()
+# t.sety(0)
+# t.setx(-300)
+# t.down()
+# t.setx(600)
+# window.mainloop()
+
+
+
+
+# Task 5: Random Points (.write())
+# Write a program where the turtle moves to 10 random positions on the
+# screen, drawing a small square at each spot. Display the x and y
+# coordinates of each position next to the squares.
+
+# 1. Import 'turtle' and 'random' library
+# 2. Create a 600x600 turtle screen using 'turtle.Screen()' and
+#    '.setup(width=,height=)' function
+# 3. Within a 'for' loop,
+#         a. Create 'x' variable and assign a random value between
+#            -280 and 280.
+#         b. Create 'y' variable and assign a random value between
+#            -280 and 280.
+#         c. Using '.goto()', position your turtle at the random
+#            coordinate 'x' and 'y' generated.
+#         d. Using a 'for' loop and the movement commands, draw a 5x5
+#            small square
+#         e. Reposition your turtle object 40 steps lower than the
+#            randomly generated x and y coordinate
+#         f. Write the coordinate of the square using '.write()'
+   
+
+
+
+
+import random
 import turtle
-window = turtle.Screen()
-window.setup(width=600, height=400)
+window = turtle.Screen
+window = turtle.setup(height=600 , width=600)
 t = turtle.Turtle()
-t.down()
-t.seth(0)
-for i in range(360):
-    t.forward(0.69)
-    t.left(1)
+for i in range(10):
+    x = random.randint(-280 , 280)
+    y = random.randint(-280 , 280)
+    t.up()
+    t.goto(x , y)
+    t.down()
+    for i in range(4):
+        t.forward(5)
+        t.right(90)
+    t.up()
+    t.sety(y - 40)
+    t.down()
+    text = "(" + str(x) + ", " + str(y) + ")" # (50, 60)
+    t.write(text, align="center")
+
 window.mainloop()
+
